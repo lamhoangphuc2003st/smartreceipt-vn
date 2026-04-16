@@ -36,11 +36,12 @@ RUN pip install --upgrade pip && \
         "google-genai" \
         "opencv-python-headless" \
         "Pillow" \
-        "numpy" \
+        "numpy<2" \
         "rapidfuzz" \
-        "transformers" \
+        "transformers>=4.40" \
         # CPU-only torch — much smaller image (~800 MB vs ~3 GB with CUDA)
-        "torch==2.2.2+cpu" \
+        # torch 2.4+ required by transformers>=4.40, and compatible with numpy<2
+        "torch==2.4.0+cpu" \
         --extra-index-url https://download.pytorch.org/whl/cpu
 
 
