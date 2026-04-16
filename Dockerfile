@@ -64,7 +64,6 @@ COPY --from=builder /install /usr/local
 # Copy application source
 COPY api/       ./api/
 COPY src/        ./src/
-COPY configs/   ./configs/
 COPY data/merchants.json ./data/merchants.json
 
 # Copy local PhoBERT model if present (optional — falls back to HF Hub)
