@@ -1,0 +1,3933 @@
+[
+  {
+    "image": "vat_invoice_0001.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN THƯƠNG MẠI AN SƠN",
+    "date": "06-03-2026",
+    "time": "18:50",
+    "items": [
+      {
+        "name": "Mì Omachi quán xá Châu á bò Đài Loan 12 hộp x 95gr",
+        "quantity": 1,
+        "unit_price": 266666,
+        "total": 266667
+      },
+      {
+        "name": "Nước mắm Nam Ngư (QR) 15chai x 900ml",
+        "quantity": 1,
+        "unit_price": 694444,
+        "total": 694444
+      },
+      {
+        "name": "Tương ớt CHIN-SU MB (QR) 3bl x 8chai x 250gr",
+        "quantity": 1,
+        "unit_price": 333333,
+        "total": 333333
+      },
+      {
+        "name": "Tương ớt CHIN-SU MB (QR) 2bl x 6chai x 500gr",
+        "quantity": 2,
+        "unit_price": 313333,
+        "total": 626667
+      }
+    ],
+    "subtotal": 1921111,
+    "vat": 153689,
+    "total_amount": 2074800,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0028.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LANDMARK ONE",
+    "date": "13-03-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "Gà đồi nướng mắc khén",
+        "quantity": 1,
+        "unit_price": 395000,
+        "total": 395000
+      },
+      {
+        "name": "Cá Hồi Sa Pa tươi sống",
+        "quantity": 2.1,
+        "unit_price": 690000,
+        "total": 1449000
+      },
+      {
+        "name": "Trà sâm dứa",
+        "quantity": 1,
+        "unit_price": 25000,
+        "total": 25000
+      },
+      {
+        "name": "Trâu cháy tiêu xanh",
+        "quantity": 1,
+        "unit_price": 230000,
+        "total": 230000
+      },
+      {
+        "name": "Măng trúc xào nấm",
+        "quantity": 1,
+        "unit_price": 90000,
+        "total": 90000
+      },
+      {
+        "name": "Lợn gác bếp",
+        "quantity": 1,
+        "unit_price": 95000,
+        "total": 95000
+      },
+      {
+        "name": "Rau cải luộc chấm trứng",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      }
+    ],
+    "subtotal": 2334000,
+    "vat": 186720,
+    "total_amount": 2520720,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0011.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINIMART ANAN",
+    "date": "12-08-2020",
+    "time": "08:03",
+    "items": [
+      {
+        "name": "Nước C2 trà xanh 360ml NT",
+        "quantity": 6,
+        "unit_price": 5166,
+        "total": 30996
+      },
+      {
+        "name": "8936048471248 NT",
+        "quantity": 10,
+        "unit_price": 3200,
+        "total": 32000
+      }
+    ],
+    "subtotal": 62996,
+    "vat": null,
+    "total_amount": 62996,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0003.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "MINIMART ANAN",
+    "date": "13-08-2020",
+    "time": "16:32",
+    "items": [
+      {
+        "name": "Tương ớt chinsu 250g NT",
+        "quantity": 1,
+        "unit_price": 12000,
+        "total": 12000
+      },
+      {
+        "name": "Bột mì meizan 1kg NT",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      }
+    ],
+    "subtotal": 27000,
+    "vat": null,
+    "total_amount": 27000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0007.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "VINASUN CTY CP ÁNH DƯƠNG VN",
+    "date": "24-06-2016",
+    "time": null,
+    "items": [
+      {
+        "name": "Đi xe buýt",
+        "quantity": null,
+        "unit_price": null,
+        "total": null
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 150000,
+    "payment_method": "unknown",
+    "category": "Đi lại",
+    "confidence": "medium"
+  },
+  {
+    "image": "long_invoice_0012.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "VinCommerce",
+    "date": "15-08-2020",
+    "time": "11:16",
+    "items": [
+      {
+        "name": "Cải xanh (cải canh) L1 Vineco 18.200/KG x 0,518 KG",
+        "quantity": 1,
+        "unit_price": 19428,
+        "total": 9428
+      },
+      {
+        "name": "ARGO Rong biển trộn cơm Argo gói 50g T30",
+        "quantity": 1,
+        "unit_price": 58900,
+        "total": 58900
+      },
+      {
+        "name": "MIWON Rong biển giòn trộn gia vị 50g T20",
+        "quantity": 1,
+        "unit_price": 47500,
+        "total": 47500
+      },
+      {
+        "name": "CP_Thịt heo xay 300g",
+        "quantity": 1,
+        "unit_price": 49500,
+        "total": 49500
+      },
+      {
+        "name": "Tím gà CP 500g",
+        "quantity": 1,
+        "unit_price": 75900,
+        "total": 75900
+      },
+      {
+        "name": "SLIDE Snack k.tây tự nhiên 75g (T28)",
+        "quantity": 1,
+        "unit_price": 26500,
+        "total": 26500
+      }
+    ],
+    "subtotal": 267728,
+    "vat": 0,
+    "total_amount": 267728,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0024.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Công ty XNK Thanh Hà",
+    "date": "01-06-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "Bố trí sảnh tiệc",
+        "quantity": 1,
+        "unit_price": 2000000,
+        "total": 2000000
+      },
+      {
+        "name": "Dịch vụ ăn uống",
+        "quantity": 2,
+        "unit_price": 2000000,
+        "total": 4000000
+      },
+      {
+        "name": "Dịch vụ dọn dẹp",
+        "quantity": 1,
+        "unit_price": 2000000,
+        "total": 2000000
+      }
+    ],
+    "subtotal": 8000000,
+    "vat": 0,
+    "total_amount": 8000000,
+    "payment_method": "transfer",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0040.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "THE NOODLE HOUSE - 225NVT",
+    "date": "16-03-2022",
+    "time": "07:53",
+    "items": [
+      {
+        "name": "Phở gà Đệ nhất Tràng An",
+        "quantity": 2,
+        "unit_price": 295000,
+        "total": 590000
+      }
+    ],
+    "subtotal": 590000,
+    "vat": null,
+    "total_amount": 590000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0035.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "HTX CƠ KHÍ VÀ VẬN TẢI Ô TÔ HUY HOÀNG",
+    "date": "11-10-2022",
+    "time": "10:45",
+    "items": [
+      {
+        "name": "Vé xe khách Đồng Hới - Trung Tâm Đà Nẵng",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 220000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 220000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0036.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "PARIS LEVAIN",
+    "date": "21-09-2025",
+    "time": "14:22",
+    "items": [
+      {
+        "name": "Latte / Cà phê Latte Cold / Đá",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Cappuccino / Cà phê Cappuccino - Hot / Nóng",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Peach Creamcheese Pastry",
+        "quantity": 1,
+        "unit_price": 52000,
+        "total": 52000
+      }
+    ],
+    "subtotal": 172000,
+    "vat": null,
+    "total_amount": 172000,
+    "payment_method": "card",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0012.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "NHÀ SÁCH GD-TC CẨM PHẢ",
+    "date": "14-08-2020",
+    "time": "08:42",
+    "items": [
+      {
+        "name": "Búp bê trang điểm",
+        "quantity": 1,
+        "unit_price": 95000,
+        "total": 95000
+      }
+    ],
+    "subtotal": 95000,
+    "vat": 0,
+    "total_amount": 95000,
+    "payment_method": null,
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0040.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "CÔNG TY TNHH VẬN TẢI HÀNH KHÁCH VÀ DU LỊCH PHÚC YÊN",
+    "date": "26-11-2025",
+    "time": "16:30",
+    "items": [
+      {
+        "name": "VÉ XE KHÁCH",
+        "quantity": 1,
+        "unit_price": 290000,
+        "total": 290000
+      }
+    ],
+    "subtotal": 290000,
+    "vat": 23200,
+    "total_amount": 290000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0020.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "VinCommerce",
+    "date": "15-08-2020",
+    "time": "11:10",
+    "items": [
+      {
+        "name": "Phô mai lát Sandwich Zott gói 200g",
+        "quantity": 1,
+        "unit_price": 49900,
+        "total": 49900
+      },
+      {
+        "name": "VMH-K.mặt CTCC hồng/xanh 34*75*1079",
+        "quantity": 1,
+        "unit_price": 59000,
+        "total": 59000
+      },
+      {
+        "name": "ACK Phở trộn ệ nhất hương vị Phở bò 84g",
+        "quantity": 1,
+        "unit_price": 11000,
+        "total": 11000
+      },
+      {
+        "name": "NONGSHIM Mi Shin Ramyun gói 120g",
+        "quantity": 1,
+        "unit_price": 24500,
+        "total": 24500
+      },
+      {
+        "name": "Ken: Strongbow Dark Fruit 330 ml T24",
+        "quantity": 1,
+        "unit_price": 18500,
+        "total": 18500
+      },
+      {
+        "name": "Nấm kim châm VN 150g",
+        "quantity": 1,
+        "unit_price": 13000,
+        "total": 13000
+      },
+      {
+        "name": "ậu hũ non Bibigo ống Kim’s 220gr",
+        "quantity": 1,
+        "unit_price": 9100,
+        "total": 9100
+      },
+      {
+        "name": "Cải chíp (cải thìa) DL L1 Vineco 34.900/KG x 0,464 KG",
+        "quantity": 1,
+        "unit_price": 16194,
+        "total": 16194
+      }
+    ],
+    "subtotal": 210294,
+    "vat": null,
+    "total_amount": 210294,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0032.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "ĐỒ GỖ NỘI THẤT NT",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Tủ quần áo 3 cánh cua góc",
+        "quantity": 2,
+        "unit_price": 4100000,
+        "total": 8200000
+      },
+      {
+        "name": "Giường",
+        "quantity": 2,
+        "unit_price": 1900000,
+        "total": 3800000
+      },
+      {
+        "name": "Bàn trang điểm",
+        "quantity": 2,
+        "unit_price": 950000,
+        "total": 1900000
+      },
+      {
+        "name": "Táp đầu giường",
+        "quantity": 1,
+        "unit_price": 450000,
+        "total": 450000
+      },
+      {
+        "name": "Kệ TV",
+        "quantity": 1,
+        "unit_price": 1800000,
+        "total": 1800000
+      },
+      {
+        "name": "Đợt treo TV",
+        "quantity": 1,
+        "unit_price": 950000,
+        "total": 950000
+      },
+      {
+        "name": "Tủ bếp dưới",
+        "quantity": 2.4,
+        "unit_price": 3900000,
+        "total": 9360000
+      },
+      {
+        "name": "Tủ bếp trên",
+        "quantity": 2.4,
+        "unit_price": 3900000,
+        "total": 9360000
+      },
+      {
+        "name": "Mặt đá bếp",
+        "quantity": 1.2,
+        "unit_price": 900000,
+        "total": 1080000
+      },
+      {
+        "name": "Giá bát",
+        "quantity": 1,
+        "unit_price": 800000,
+        "total": 800000
+      },
+      {
+        "name": "Sofa",
+        "quantity": 1,
+        "unit_price": 4500000,
+        "total": 4500000
+      },
+      {
+        "name": "Bộ bàn ăn (kèm 4 ghế)",
+        "quantity": 1,
+        "unit_price": 3350000,
+        "total": 3350000
+      },
+      {
+        "name": "Tủ giày",
+        "quantity": 1,
+        "unit_price": 1300000,
+        "total": 1300000
+      },
+      {
+        "name": "Bàn trà",
+        "quantity": 1,
+        "unit_price": 1550000,
+        "total": 1550000
+      }
+    ],
+    "subtotal": 45550000,
+    "vat": null,
+    "total_amount": 45550000,
+    "payment_method": "unknown",
+    "category": "Nhà cửa",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0058.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "TRUNG TÂM BẢO TỒN DI TÍCH CỔ ĐÔ HUẾ",
+    "date": "29-09-2023",
+    "time": null,
+    "items": [
+      {
+        "name": "VÉ GIỮ XE Ô TÔ (7 CHỖ TRỞ XUỐNG)",
+        "quantity": 1,
+        "unit_price": 12000,
+        "total": 12000
+      }
+    ],
+    "subtotal": 12000,
+    "vat": null,
+    "total_amount": 12000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0010.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "Co.opMart XA LO HA NOI",
+    "date": "03-07-2020",
+    "time": "19:07",
+    "items": [
+      {
+        "name": "Suatt DLADYcaokhoe cd goi",
+        "quantity": 10,
+        "unit_price": 5400,
+        "total": 54000
+      },
+      {
+        "name": "SDN FAMI canxi bich 200ml",
+        "quantity": 10,
+        "unit_price": 3600,
+        "total": 36000
+      },
+      {
+        "name": "Choco KITKAT Greentea 8x1",
+        "quantity": 1,
+        "unit_price": 70000,
+        "total": 70000
+      },
+      {
+        "name": "B.CHOCO-PIE Lotte txanh h",
+        "quantity": 1,
+        "unit_price": 57000,
+        "total": 57000
+      },
+      {
+        "name": "Tao Fuji Nam Phi kg",
+        "quantity": 0.322,
+        "unit_price": 48900,
+        "total": 15745
+      },
+      {
+        "name": "Tao do New Zealand kg",
+        "quantity": 0.492,
+        "unit_price": 48900,
+        "total": 24058
+      },
+      {
+        "name": "Ca chua Kg",
+        "quantity": 0.304,
+        "unit_price": 20500,
+        "total": 6232
+      },
+      {
+        "name": "Thanh Long PThiet L1",
+        "quantity": 0.528,
+        "unit_price": 31000,
+        "total": 16368
+      },
+      {
+        "name": "Trung ga 10t/hop-V.food",
+        "quantity": 1,
+        "unit_price": 26000,
+        "total": 26000
+      }
+    ],
+    "subtotal": 305404,
+    "vat": 23937,
+    "total_amount": 305404,
+    "payment_method": "card",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0006.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "LE CHAMP TU LE RESORT HOT SPRING & SPA",
+    "date": "31-01-2020",
+    "time": "10:50",
+    "items": [
+      {
+        "name": "Đồ uống trong phòng (Minibar) khách chuyến p",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      },
+      {
+        "name": "Dịch vụ ăn uống (KHAU PHA Restaurant)",
+        "quantity": 1,
+        "unit_price": 3000000,
+        "total": 3000000
+      },
+      {
+        "name": "Dịch vụ phòng nghỉ (Room Charge) Extra Child",
+        "quantity": 1,
+        "unit_price": 300000,
+        "total": 300000
+      },
+      {
+        "name": "Dịch vụ phòng nghỉ (Room Charge) Extra Bed",
+        "quantity": 1,
+        "unit_price": 700000,
+        "total": 700000
+      },
+      {
+        "name": "Dịch vụ ăn uống (KHAU PHA Restaurant)",
+        "quantity": 1,
+        "unit_price": 3550000,
+        "total": 3550000
+      },
+      {
+        "name": "Dịch vụ ăn uống (KHAU PHA Restaurant)",
+        "quantity": 1,
+        "unit_price": 2430000,
+        "total": 2430000
+      },
+      {
+        "name": "Dịch vụ phòng nghỉ (Room Charge) Extra Child",
+        "quantity": 1,
+        "unit_price": 300000,
+        "total": 300000
+      },
+      {
+        "name": "Dịch vụ phòng nghỉ (Room Charge) Extra Bed",
+        "quantity": 1,
+        "unit_price": 700000,
+        "total": 700000
+      },
+      {
+        "name": "Đồ uống trong phòng (Minibar)",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      },
+      {
+        "name": "Đồ uống trong phòng (Minibar)",
+        "quantity": 1,
+        "unit_price": 100000,
+        "total": 100000
+      },
+      {
+        "name": "Đồ uống trong phòng (Minibar)",
+        "quantity": 1,
+        "unit_price": 100000,
+        "total": 100000
+      },
+      {
+        "name": "Thẻ VISA CARD *9402",
+        "quantity": 1,
+        "unit_price": -11280000,
+        "total": -11280000
+      }
+    ],
+    "subtotal": 9766235,
+    "vat": null,
+    "total_amount": 9766235,
+    "payment_method": "card",
+    "category": "Du lịch",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0042.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "trasencodau",
+    "date": "24-10-2024",
+    "time": null,
+    "items": [
+      {
+        "name": "Ốp la thập cẩm",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      },
+      {
+        "name": "Phụ thu do Ăn không Uống",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      }
+    ],
+    "subtotal": 60000,
+    "vat": null,
+    "total_amount": 60000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0060.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "TOMA FASHION",
+    "date": "27-03-2020",
+    "time": "15:56",
+    "items": [
+      {
+        "name": "ÁO PHÔNG TRẮNG",
+        "quantity": 2,
+        "unit_price": 200000,
+        "total": 400000
+      },
+      {
+        "name": "QUẦN DÙI BÒ",
+        "quantity": 1,
+        "unit_price": 200000,
+        "total": 200000
+      }
+    ],
+    "subtotal": 600000,
+    "vat": null,
+    "total_amount": 540000,
+    "payment_method": null,
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0026.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH DỊCH VỤ VƯỢNG THÁI",
+    "date": "08-11-2021",
+    "time": null,
+    "items": [
+      {
+        "name": "Dịch vụ vận tải",
+        "quantity": 1,
+        "unit_price": 20000000,
+        "total": 20000000
+      }
+    ],
+    "subtotal": 20000000,
+    "vat": 1400000,
+    "total_amount": 21400000,
+    "payment_method": "card",
+    "category": "Khác",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0023.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY CỔ PHẦN GM THĂNG LONG",
+    "date": "30-09-2016",
+    "time": null,
+    "items": [
+      {
+        "name": "Xe ô tô GM Chevrolet CRUZE KL1-JNB11/CD5-1, 05 Chỗ ngồi, màu Đen (831), dung tích xy lanh 1796 Cm3, mới 100%",
+        "quantity": 1,
+        "unit_price": 553636364,
+        "total": 553636364
+      }
+    ],
+    "subtotal": 553636364,
+    "vat": 55363636,
+    "total_amount": 609000000,
+    "payment_method": null,
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0034.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "BILLIARDS CLUP NEW VIP",
+    "date": "13-12-2017",
+    "time": "20:37",
+    "items": [
+      {
+        "name": "Tiền giờ bàn 10 (50 phút)",
+        "quantity": 1,
+        "unit_price": 25000,
+        "total": 25000
+      },
+      {
+        "name": "Bia Larue",
+        "quantity": 20,
+        "unit_price": 12000,
+        "total": 240000
+      },
+      {
+        "name": "Nước Bò Húc",
+        "quantity": 4,
+        "unit_price": 15000,
+        "total": 60000
+      },
+      {
+        "name": "Thuốc Ngựa",
+        "quantity": 1,
+        "unit_price": 30000,
+        "total": 30000
+      },
+      {
+        "name": "Cafe Sữa Đá",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      }
+    ],
+    "subtotal": 345000,
+    "vat": null,
+    "total_amount": 370000,
+    "payment_method": "unknown",
+    "category": "Giải trí",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0005.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY CP ĐIỆN NƯỚC AN GIANG",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Điện tiêu thụ kỳ 07/2025 từ ngày đến ngày",
+        "quantity": 284,
+        "unit_price": null,
+        "total": 691532
+      }
+    ],
+    "subtotal": 691532,
+    "vat": 55323,
+    "total_amount": 746855,
+    "payment_method": "unknown",
+    "category": "Hoá đơn tiện ích",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0000.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM",
+    "date": "16-09-2023",
+    "time": "12:10",
+    "items": [
+      {
+        "name": "CASH WITHDRAWAL",
+        "quantity": 1,
+        "unit_price": 1000000,
+        "total": 1000000
+      }
+    ],
+    "subtotal": 1000000,
+    "vat": 5000,
+    "total_amount": 1055000,
+    "payment_method": "card",
+    "category": "Khác",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0010.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "VinCommerce",
+    "date": "14-08-2020",
+    "time": "08:29",
+    "items": [
+      {
+        "name": "CP_xương ống 500g",
+        "quantity": 8,
+        "unit_price": 20000,
+        "total": 160000
+      }
+    ],
+    "subtotal": 160000,
+    "vat": null,
+    "total_amount": 160000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0005.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "Saigon Co.op",
+    "date": "20-09-2019",
+    "time": "10:25",
+    "items": [
+      {
+        "name": "Chuoi tieu song",
+        "quantity": 0.476,
+        "unit_price": 21000,
+        "total": 9996
+      },
+      {
+        "name": "Bi ngoai xanh",
+        "quantity": 0.438,
+        "unit_price": 24000,
+        "total": 10512
+      },
+      {
+        "name": "Chuoi Tieu Hong",
+        "quantity": 0.488,
+        "unit_price": 13900,
+        "total": 6783
+      }
+    ],
+    "subtotal": 27291,
+    "vat": 1299,
+    "total_amount": 27291,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0038.jpg",
+    "group": "05_low_quality",
+    "merchant_name": null,
+    "date": "14-01-2016",
+    "time": "09:50",
+    "items": [
+      {
+        "name": "Xôi xéo",
+        "quantity": 1,
+        "unit_price": 28000,
+        "total": 28000
+      },
+      {
+        "name": "Xôi ngô, Quả, Gà xào nấm",
+        "quantity": 1,
+        "unit_price": 46000,
+        "total": 46000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 74000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0020.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CHI NHÁNH THÀNH PHỐ HỒ CHÍ MINH - CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM",
+    "date": "27-09-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "Cước phí vận chuyển mã 01K646BTSVMCNQE0PH5QX58BT9",
+        "quantity": 1,
+        "unit_price": 271296,
+        "total": 271296
+      },
+      {
+        "name": "Chiết khấu thương mại/ giảm giá mã 01K646BTSVMCNQE0PH5QX58BT9",
+        "quantity": 1,
+        "unit_price": 39815,
+        "total": 39815
+      }
+    ],
+    "subtotal": 231481,
+    "vat": 18519,
+    "total_amount": 250000,
+    "payment_method": "unknown",
+    "category": "Khác",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0023.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINIMART ANAN",
+    "date": "13-08-2020",
+    "time": "18:12",
+    "items": [
+      {
+        "name": "Bột làm thạch NT",
+        "quantity": 1,
+        "unit_price": 16000,
+        "total": 16000
+      },
+      {
+        "name": "Bánh Chocopie 6p 180g NT",
+        "quantity": 1,
+        "unit_price": 26000,
+        "total": 26000
+      },
+      {
+        "name": "nước dừa, táo, xoài chabaa NO",
+        "quantity": 2,
+        "unit_price": 8000,
+        "total": 16000
+      }
+    ],
+    "subtotal": 58000,
+    "vat": null,
+    "total_amount": 58000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0013.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH GIAO NHẬN VÀ VẬN TẢI MINH VIỆT",
+    "date": "23-10-2018",
+    "time": "04:48",
+    "items": [
+      {
+        "name": "Cân xe: Trọng lượng cân lần 1 (1st Weight)",
+        "quantity": 17.89,
+        "unit_price": null,
+        "total": 53670
+      },
+      {
+        "name": "Trọng lượng cân lần 2 (2nd weight)",
+        "quantity": 47.17,
+        "unit_price": 3,
+        "total": 141510
+      }
+    ],
+    "subtotal": 195180,
+    "vat": 19518,
+    "total_amount": 214698,
+    "payment_method": "card",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0012.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": null,
+    "date": "10-06-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "IELTS 7.0 Standard - Off",
+        "quantity": 1,
+        "unit_price": 10500000,
+        "total": 10500000
+      }
+    ],
+    "subtotal": 10500000,
+    "vat": 0,
+    "total_amount": 10500000,
+    "payment_method": null,
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0022.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "CƠM GÀ BẢO NGỌC",
+    "date": "11-08-2020",
+    "time": "12:55",
+    "items": [
+      {
+        "name": "Gà rang muối nửa con",
+        "quantity": 2,
+        "unit_price": 149000,
+        "total": 298000
+      },
+      {
+        "name": "Trà sâm dứa ca",
+        "quantity": 2,
+        "unit_price": 15000,
+        "total": 30000
+      },
+      {
+        "name": "Lẩu riêu cua gà truyền thống 279k",
+        "quantity": 2,
+        "unit_price": 279000,
+        "total": 558000
+      },
+      {
+        "name": "Dưa chẻ",
+        "quantity": 2,
+        "unit_price": 15000,
+        "total": 30000
+      },
+      {
+        "name": "Ngô chiên",
+        "quantity": 2,
+        "unit_price": 45000,
+        "total": 90000
+      },
+      {
+        "name": "Bia Sài Gòn",
+        "quantity": 3,
+        "unit_price": 20000,
+        "total": 60000
+      },
+      {
+        "name": "Rau muống xào 40k",
+        "quantity": 2,
+        "unit_price": 40000,
+        "total": 80000
+      },
+      {
+        "name": "Bò ta 99k",
+        "quantity": 2,
+        "unit_price": 99000,
+        "total": 198000
+      },
+      {
+        "name": "Mọc",
+        "quantity": 1,
+        "unit_price": 89000,
+        "total": 89000
+      },
+      {
+        "name": "Gà quay lu nhỏ",
+        "quantity": 1,
+        "unit_price": 150000,
+        "total": 150000
+      },
+      {
+        "name": "Bò ta 99k [Trả hàng]",
+        "quantity": -2,
+        "unit_price": 99000,
+        "total": -198000
+      },
+      {
+        "name": "Xôi không 60k",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Mì Tôm",
+        "quantity": 3,
+        "unit_price": 5000,
+        "total": 15000
+      },
+      {
+        "name": "Rau lẩu RIÊU",
+        "quantity": 1,
+        "unit_price": 20000,
+        "total": 20000
+      },
+      {
+        "name": "Trà sâm dứa ca",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Bia Sài Gòn [Trả hàng]",
+        "quantity": -1,
+        "unit_price": 20000,
+        "total": -20000
+      }
+    ],
+    "subtotal": 1475000,
+    "vat": 0,
+    "total_amount": 1475000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0000.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "CÔNG TY DỊCH THUẬT TUẤN DUNG",
+    "date": "26-04-2017",
+    "time": null,
+    "items": [
+      {
+        "name": "Dịch vụ",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 250000
+      }
+    ],
+    "subtotal": 250000,
+    "vat": null,
+    "total_amount": 250000,
+    "payment_method": "unknown",
+    "category": "Khác",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0004.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "TRUNG TÂM ANH NGỮ IALC VIỆT NAM - CN TUY HÒA",
+    "date": "02-08-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "Prehuds 3.4 + EK 1.4 + EK 2.4 (Đóng 2 học 3)",
+        "quantity": null,
+        "unit_price": null,
+        "total": 9000000
+      }
+    ],
+    "subtotal": 9000000,
+    "vat": null,
+    "total_amount": 9000000,
+    "payment_method": null,
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0017.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINIMART ANAN",
+    "date": "16-08-2020",
+    "time": "14:51",
+    "items": [
+      {
+        "name": "bánh que oishi akiko160g NO",
+        "quantity": 3,
+        "unit_price": 16000,
+        "total": 48000
+      },
+      {
+        "name": "bánh que mini waf 330g NT",
+        "quantity": 2,
+        "unit_price": 20000,
+        "total": 40000
+      },
+      {
+        "name": "thạch long hải caramen 1kg NO",
+        "quantity": 1,
+        "unit_price": 35000,
+        "total": 35000
+      },
+      {
+        "name": "Mì cốc moder lẩu NT",
+        "quantity": 2,
+        "unit_price": 6500,
+        "total": 13000
+      }
+    ],
+    "subtotal": 136000,
+    "vat": null,
+    "total_amount": 136000,
+    "payment_method": "card",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0015.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "Saigon Co.op",
+    "date": "20-09-2019",
+    "time": "10:23",
+    "items": [
+      {
+        "name": "Rau muong",
+        "quantity": 0.418,
+        "unit_price": 19000,
+        "total": 7942
+      },
+      {
+        "name": "Thit xay pha loc",
+        "quantity": 0.186,
+        "unit_price": 112000,
+        "total": 20832
+      },
+      {
+        "name": "Dau hu trang",
+        "quantity": 2,
+        "unit_price": 5000,
+        "total": 10000
+      }
+    ],
+    "subtotal": null,
+    "vat": 2279,
+    "total_amount": 38774,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0027.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "Cty LD TNHH KFC Viet Nam",
+    "date": "15-08-2020",
+    "time": "19:12",
+    "items": [
+      {
+        "name": "ZINGER BURGER E",
+        "quantity": 1,
+        "unit_price": 51000,
+        "total": 51000
+      }
+    ],
+    "subtotal": 51000,
+    "vat": null,
+    "total_amount": 51000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0016.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "VinCommerce",
+    "date": "13-08-2020",
+    "time": "19:07",
+    "items": [
+      {
+        "name": "Táo Envy NewZealand 90-110 157.500/KG x 0,950 KG",
+        "quantity": 1,
+        "unit_price": 149625,
+        "total": 149625
+      },
+      {
+        "name": "KM",
+        "quantity": null,
+        "unit_price": null,
+        "total": -13870
+      },
+      {
+        "name": "Bưởi hồng da xanh túi lưới 65.300/KG x 1,422 KG",
+        "quantity": 1,
+        "unit_price": 92857,
+        "total": 92857
+      },
+      {
+        "name": "KM",
+        "quantity": null,
+        "unit_price": null,
+        "total": -16211
+      },
+      {
+        "name": "Mít quả 43.900/KG x 1,242 KG",
+        "quantity": 1,
+        "unit_price": 54524,
+        "total": 54524
+      },
+      {
+        "name": "Kẹo trái cây SKITTLES 45g",
+        "quantity": 1,
+        "unit_price": 15200,
+        "total": 15200
+      },
+      {
+        "name": "Xúc xích Red tiệt trùng CP (MN) gói 200g",
+        "quantity": 1,
+        "unit_price": 24500,
+        "total": 24500
+      },
+      {
+        "name": "Xúc xích Red tiệt trùng CP (MN) gói 200g",
+        "quantity": 2,
+        "unit_price": 24500,
+        "total": 49000
+      },
+      {
+        "name": "MARSMALLOWS Kẹo Mega 120g",
+        "quantity": 1,
+        "unit_price": 28300,
+        "total": 28300
+      },
+      {
+        "name": "CU tt Fristi h.nho L6 hộpx80ml",
+        "quantity": 1,
+        "unit_price": 23900,
+        "total": 23900
+      },
+      {
+        "name": "Nước uống tăng lực Redbull T24 lonx250ml",
+        "quantity": 1,
+        "unit_price": 9200,
+        "total": 9200
+      },
+      {
+        "name": "null",
+        "quantity": null,
+        "unit_price": null,
+        "total": -400
+      },
+      {
+        "name": "Trà ô long Tea+Plus T24 chai x350ml",
+        "quantity": 1,
+        "unit_price": 7100,
+        "total": 7100
+      },
+      {
+        "name": "null",
+        "quantity": null,
+        "unit_price": null,
+        "total": -1100
+      }
+    ],
+    "subtotal": 398125,
+    "vat": null,
+    "total_amount": 398125,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0046.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "Công ty xăng dầu Điện Biên",
+    "date": "30-03-2018",
+    "time": "08:28",
+    "items": [
+      {
+        "name": "Xăng E5 RON 92-II",
+        "quantity": 100,
+        "unit_price": 16909,
+        "total": 1690909
+      }
+    ],
+    "subtotal": 1690909,
+    "vat": 169091,
+    "total_amount": 1860000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0049.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "NỘI THẤT GIA LINH",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Thảm trải sàn Phòng khách Thổ Nhĩ Kỳ",
+        "quantity": 1,
+        "unit_price": 6000000,
+        "total": 6000000
+      },
+      {
+        "name": "Bộ Sofa bàn trà phòng khách",
+        "quantity": 1,
+        "unit_price": 35000000,
+        "total": 35000000
+      },
+      {
+        "name": "Bộ giường tủ phòng ngủ",
+        "quantity": 2,
+        "unit_price": 22000000,
+        "total": 44000000
+      },
+      {
+        "name": "Kệ tivi gỗ tự nhiên cao cấp",
+        "quantity": 1,
+        "unit_price": 15000000,
+        "total": 15000000
+      },
+      {
+        "name": "Bộ bàn ăn gỗ tự nhiên cao cấp",
+        "quantity": 1,
+        "unit_price": 26000000,
+        "total": 26000000
+      },
+      {
+        "name": "Bộ giá sách kệ tủ sách đèn bàn",
+        "quantity": 1,
+        "unit_price": 17000000,
+        "total": 17000000
+      },
+      {
+        "name": "Đồng Hồ treo tường cổ điển gỗ tự nhiên",
+        "quantity": 1,
+        "unit_price": 4600000,
+        "total": 4600000
+      }
+    ],
+    "subtotal": 147600000,
+    "vat": null,
+    "total_amount": 147600000,
+    "payment_method": null,
+    "category": "Nhà cửa",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0009.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+    "date": "02-04-2024",
+    "time": null,
+    "items": [
+      {
+        "name": "Samsung Galaxy Note 10 Plus",
+        "quantity": 4,
+        "unit_price": 18990000,
+        "total": 75960000
+      },
+      {
+        "name": "Samsung Galaxy Note 10",
+        "quantity": 6,
+        "unit_price": 14990000,
+        "total": 89940000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 177993000,
+    "payment_method": "cash/transfer",
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0026.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Nhà hàng Bảo Trang (Cơ sở 1)",
+    "date": "08-02-2017",
+    "time": "15:16",
+    "items": [
+      {
+        "name": "Cá hồi NaUy",
+        "quantity": 1,
+        "unit_price": 450000,
+        "total": 450000
+      },
+      {
+        "name": "Bánh xèo nhật",
+        "quantity": 2,
+        "unit_price": 135000,
+        "total": 270000
+      },
+      {
+        "name": "Dưa muối tổng hợp",
+        "quantity": 2,
+        "unit_price": 42000,
+        "total": 84000
+      },
+      {
+        "name": "Sushi cá ngừ",
+        "quantity": 1,
+        "unit_price": 690000,
+        "total": 690000
+      }
+    ],
+    "subtotal": 1494000,
+    "vat": null,
+    "total_amount": 1344600,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0022.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH MỘT THÀNH VIÊN BẾN XE MIỀN ĐÔNG",
+    "date": "08-07-2022",
+    "time": null,
+    "items": [
+      {
+        "name": "Dịch vụ xe qua bến",
+        "quantity": 38,
+        "unit_price": 2009,
+        "total": 76352
+      },
+      {
+        "name": "Dịch vụ đậu đêm",
+        "quantity": 1,
+        "unit_price": 38240,
+        "total": 38241
+      }
+    ],
+    "subtotal": 114593,
+    "vat": 9167,
+    "total_amount": 123760,
+    "payment_method": "unknown",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0017.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM",
+    "date": "24-03-2025",
+    "time": "14:03",
+    "items": [
+      {
+        "name": "Cước phí vận chuyển mã 01JQ1GM8CQNQY1ZW7EHT0Z6AQ",
+        "quantity": 1,
+        "unit_price": 325926,
+        "total": 325926
+      }
+    ],
+    "subtotal": 325926,
+    "vat": 26074,
+    "total_amount": 352000,
+    "payment_method": "transfer",
+    "category": "Khác",
+    "category_note": "freight shipping, not passenger transport",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0018.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "VinCommerce",
+    "date": "12-08-2020",
+    "time": "18:13",
+    "items": [
+      {
+        "name": "X-MEN Tắm gội 2in1wood 650g",
+        "quantity": 1,
+        "unit_price": 164000,
+        "total": 164000
+      },
+      {
+        "name": "OXY Kem rửa mặt tác động sâu 100g",
+        "quantity": 1,
+        "unit_price": 72000,
+        "total": 72000
+      },
+      {
+        "name": "X-MEN Sáp vuốt tóc boss spiky 70g",
+        "quantity": 1,
+        "unit_price": 73000,
+        "total": 73000
+      }
+    ],
+    "subtotal": 309000,
+    "vat": null,
+    "total_amount": 309000,
+    "payment_method": "cash",
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0008.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "CÔNG TY TNHH CHO THUÊ XE",
+    "date": "31-07-2018",
+    "time": null,
+    "items": [
+      {
+        "name": "Cước phí thuê xe từ ngày 18/06/2018 đến ngày 31/07/2018",
+        "quantity": null,
+        "unit_price": null,
+        "total": 47121500
+      }
+    ],
+    "subtotal": 47121500,
+    "vat": 4712150,
+    "total_amount": 51833650,
+    "payment_method": "unknown",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0002.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "NGUYỄN HOÀI NAM",
+    "date": "27-05-2008",
+    "time": null,
+    "items": [
+      {
+        "name": "Photo tài liệu cấp phép lưu",
+        "quantity": null,
+        "unit_price": null,
+        "total": 500000
+      }
+    ],
+    "subtotal": 500000,
+    "vat": null,
+    "total_amount": 500000,
+    "payment_method": "cash",
+    "category": "Khác",
+    "confidence": "medium"
+  },
+  {
+    "image": "handwritten_0001.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "NHẬU BÌNH DÂN CÁC MÓN HẢI SẢN",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Tiger",
+        "quantity": 2,
+        "unit_price": null,
+        "total": 40000
+      },
+      {
+        "name": "Mực xào",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 150000
+      },
+      {
+        "name": "Tsú",
+        "quantity": 0.3,
+        "unit_price": null,
+        "total": 180000
+      }
+    ],
+    "subtotal": 370000,
+    "vat": null,
+    "total_amount": 370000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "medium"
+  },
+  {
+    "image": "pos_clean_0043.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "VietNam Airlines",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Ticket 7384401870620// XXXVNYYY",
+        "quantity": 1,
+        "unit_price": 105000,
+        "total": 105000
+      },
+      {
+        "name": "Ticket 7382146307935// DADVNSGN",
+        "quantity": 1,
+        "unit_price": 902000,
+        "total": 902000
+      },
+      {
+        "name": "Ticket 7382146307934// DADVNSGN",
+        "quantity": 1,
+        "unit_price": 902000,
+        "total": 902000
+      },
+      {
+        "name": "Ticket 7384401870621// XXXVNYYY",
+        "quantity": 1,
+        "unit_price": 105000,
+        "total": 105000
+      }
+    ],
+    "subtotal": 3060000,
+    "vat": 146000,
+    "total_amount": 3298000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0012.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH TẬP ĐOÀN THANG MÁY THIẾT",
+    "date": "02-08-2022",
+    "time": null,
+    "items": [
+      {
+        "name": "Thuê phòng nghỉ",
+        "quantity": 2,
+        "unit_price": 600000,
+        "total": 1200000
+      }
+    ],
+    "subtotal": null,
+    "vat": 120000,
+    "total_amount": 1188000,
+    "payment_method": "unknown",
+    "category": "Du lịch",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0056.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "Bamboo Airways",
+    "date": "16-05-2020",
+    "time": "16:05",
+    "items": [
+      {
+        "name": "Vé máy bay chiều đi",
+        "quantity": 1,
+        "unit_price": 1200000,
+        "total": 1200000
+      },
+      {
+        "name": "Vé máy bay chiều về",
+        "quantity": 1,
+        "unit_price": 1200000,
+        "total": 1200000
+      }
+    ],
+    "subtotal": 2400000,
+    "vat": 310000,
+    "total_amount": 3650000,
+    "payment_method": "unknown",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0023.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "Co.opMart XA LO HA NOI",
+    "date": "08-07-2018",
+    "time": "18:31",
+    "items": [
+      {
+        "name": "Stuoi ttTH it duong goi22",
+        "quantity": 7,
+        "unit_price": 6900,
+        "total": 48300
+      },
+      {
+        "name": "Tao hong Queen NewZealand",
+        "quantity": 5,
+        "unit_price": 9000,
+        "total": 45000
+      },
+      {
+        "name": "Bo sap loai 1 kg",
+        "quantity": 0.32,
+        "unit_price": 32000,
+        "total": 10688
+      },
+      {
+        "name": "Mi OMACHI tom c.cay 5 sao",
+        "quantity": 1,
+        "unit_price": 5800,
+        "total": 5800
+      },
+      {
+        "name": "Mi OMACHI s.ham n.qua 80g",
+        "quantity": 1,
+        "unit_price": 5800,
+        "total": 5800
+      },
+      {
+        "name": "Luoi rua chen bon mua 17x",
+        "quantity": 1,
+        "unit_price": 20200,
+        "total": 20200
+      },
+      {
+        "name": "BCDR P/S long to m.mai",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Mi ktayOMACHI sot spa bo",
+        "quantity": 1,
+        "unit_price": 7500,
+        "total": 7500
+      },
+      {
+        "name": "Trung ga goc COOP 4T/hop",
+        "quantity": 1,
+        "unit_price": 13400,
+        "total": 13400
+      }
+    ],
+    "subtotal": 141088,
+    "vat": 11160,
+    "total_amount": 141088,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0025.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "VINH NGUYEN RES",
+    "date": "29-03-2019",
+    "time": "23:59",
+    "items": [
+      {
+        "name": "Coca",
+        "quantity": 2,
+        "unit_price": 25000,
+        "total": 50000
+      },
+      {
+        "name": "Sprite",
+        "quantity": 2,
+        "unit_price": 25000,
+        "total": 50000
+      },
+      {
+        "name": "Coca",
+        "quantity": 2,
+        "unit_price": 25000,
+        "total": 50000
+      },
+      {
+        "name": "Tonic",
+        "quantity": 2,
+        "unit_price": 25000,
+        "total": 50000
+      },
+      {
+        "name": "Soda",
+        "quantity": 1,
+        "unit_price": 25000,
+        "total": 25000
+      }
+    ],
+    "subtotal": 225000,
+    "vat": null,
+    "total_amount": 225000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0011.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "MINIMART ANAN",
+    "date": "12-08-2020",
+    "time": "14:33",
+    "items": [
+      {
+        "name": "nước giặt omo matic cửa trẻ NO",
+        "quantity": 1,
+        "unit_price": 152000,
+        "total": 152000
+      },
+      {
+        "name": "Xã Comfort 1.6L túi NT",
+        "quantity": 1,
+        "unit_price": 87000,
+        "total": 87000
+      },
+      {
+        "name": "giấy ăn rút ella gói 250 tờ NO",
+        "quantity": 1,
+        "unit_price": 14000,
+        "total": 14000
+      },
+      {
+        "name": "dg sunsilk natural hoa thiê NO",
+        "quantity": 1,
+        "unit_price": 123000,
+        "total": 123000
+      },
+      {
+        "name": "Bánh mì ruốc xúc xích kd NT",
+        "quantity": 2,
+        "unit_price": 5000,
+        "total": 10000
+      },
+      {
+        "name": "chả viên hương tôm trí thàn NO",
+        "quantity": 1,
+        "unit_price": 28000,
+        "total": 28000
+      },
+      {
+        "name": "Mì chính ajingon 1.8kg NT",
+        "quantity": 1,
+        "unit_price": 102000,
+        "total": 102000
+      },
+      {
+        "name": "Bột canh hải châu 190g NT",
+        "quantity": 6,
+        "unit_price": 3500,
+        "total": 21000
+      },
+      {
+        "name": "hướng dương 0.4kg NT",
+        "quantity": 1,
+        "unit_price": 25000,
+        "total": 25000
+      }
+    ],
+    "subtotal": 582000,
+    "vat": null,
+    "total_amount": 582000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0030.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "KARAOKE DORAEMON",
+    "date": "22-03-2017",
+    "time": "09:47",
+    "items": [
+      {
+        "name": "Tiền giờ VIP 2 (1 giờ 1 phút)",
+        "quantity": 1,
+        "unit_price": 610000,
+        "total": 610000
+      },
+      {
+        "name": "Sài gòn lager lon",
+        "quantity": 24,
+        "unit_price": 14000,
+        "total": 336000
+      },
+      {
+        "name": "Sài gòn đỏ",
+        "quantity": 5,
+        "unit_price": 12000,
+        "total": 60000
+      },
+      {
+        "name": "C2",
+        "quantity": 5,
+        "unit_price": 12000,
+        "total": 60000
+      },
+      {
+        "name": "Sting",
+        "quantity": 5,
+        "unit_price": 12000,
+        "total": 60000
+      },
+      {
+        "name": "Bò Húc",
+        "quantity": 6,
+        "unit_price": 18000,
+        "total": 108000
+      }
+    ],
+    "subtotal": 1234000,
+    "vat": null,
+    "total_amount": 1234000,
+    "payment_method": "cash",
+    "category": "Giải trí",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0030.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU",
+    "date": "13-04-2022",
+    "time": null,
+    "items": [
+      {
+        "name": "GĂNG TAY Y TẾ CÓ BỘT SUPER CARE LATEX POWDER EXAMINATION GLOVES SIZE M - HỘP 100 CÁI",
+        "quantity": 1,
+        "unit_price": 133333,
+        "total": 133333
+      },
+      {
+        "name": "CỒN 70 ĐỘ VĨNH PHÚC CÓ VÒI XỊT 500ML",
+        "quantity": 1,
+        "unit_price": 38095,
+        "total": 38095
+      },
+      {
+        "name": "URGOBAND 10CM X 4.5M - BĂNG THUN 3 MÓC",
+        "quantity": 10,
+        "unit_price": 24762,
+        "total": 247619
+      },
+      {
+        "name": "GẠC BẠO THẠCH LỚN 8CMDX10CMX12 LỚP BỊCH 10 MIẾNG",
+        "quantity": 10,
+        "unit_price": 11905,
+        "total": 119048
+      },
+      {
+        "name": "NƯỚC OXY GIÀ VĨNH PHÚC 3% 60ML",
+        "quantity": 10,
+        "unit_price": 2381,
+        "total": 23810
+      },
+      {
+        "name": "NATRI CLORID 0.9% F.T 500ML DUNG DỊCH SÚC MIỆNG",
+        "quantity": 5,
+        "unit_price": 9048,
+        "total": 45238
+      },
+      {
+        "name": "CHAI XỊT LẠNH GIẢM ĐAU SAU CHẤN THƯƠNG STARBALM COLD SPRAY NOVUM 150ML",
+        "quantity": 3,
+        "unit_price": 175239,
+        "total": 525714
+      },
+      {
+        "name": "GÔN BẠCH TUYẾT CẮT SĂN ZIGZAG 100G",
+        "quantity": 3,
+        "unit_price": 21905,
+        "total": 65714
+      },
+      {
+        "name": "URGO DURABLE 102 MIẾNG - BĂNG CÁ NHÂN VẢI ĐỎ ĐINH CAO",
+        "quantity": 1,
+        "unit_price": 61905,
+        "total": 61905
+      },
+      {
+        "name": "POVIDINE PHARMEDIC 90ML",
+        "quantity": 9,
+        "unit_price": 14762,
+        "total": 132857
+      }
+    ],
+    "subtotal": 1393333,
+    "vat": 69667,
+    "total_amount": 1463000,
+    "payment_method": "transfer",
+    "category": "Sức khoẻ",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0029.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "NHÀ SÁCH GD-TC CẨM PHẢ",
+    "date": "09-08-2020",
+    "time": "19:28",
+    "items": [
+      {
+        "name": "gọt chì 108",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total": 8000
+      },
+      {
+        "name": "Bút bi TL 061",
+        "quantity": 3,
+        "unit_price": 3500,
+        "total": 10500
+      },
+      {
+        "name": "Tẩy H01400",
+        "quantity": 1,
+        "unit_price": 5000,
+        "total": 5000
+      },
+      {
+        "name": "Thước 20cm",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total": 8000
+      },
+      {
+        "name": "Bút bi nến ngắn",
+        "quantity": 2,
+        "unit_price": 3000,
+        "total": 6000
+      },
+      {
+        "name": "Bút bi Deli",
+        "quantity": 1,
+        "unit_price": 3500,
+        "total": 3500
+      },
+      {
+        "name": "Tẩy TP-E024",
+        "quantity": 1,
+        "unit_price": 4000,
+        "total": 4000
+      },
+      {
+        "name": "Nhãn vở campus",
+        "quantity": 5,
+        "unit_price": 8000,
+        "total": 40000
+      },
+      {
+        "name": "Sticker XCY",
+        "quantity": 1,
+        "unit_price": 12000,
+        "total": 12000
+      },
+      {
+        "name": "VPP Loại 5K",
+        "quantity": 2,
+        "unit_price": 5000,
+        "total": 10000
+      },
+      {
+        "name": "Ví bút 9243",
+        "quantity": 1,
+        "unit_price": 40000,
+        "total": 40000
+      },
+      {
+        "name": "Hộp bút TL",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Nhân vở Monster",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total": 8000
+      },
+      {
+        "name": "Giấy nhớ 3X3",
+        "quantity": 1,
+        "unit_price": 7000,
+        "total": 7000
+      },
+      {
+        "name": "Mực Qeen",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "Bọc SGK NC-102",
+        "quantity": 5,
+        "unit_price": 17000,
+        "total": 85000
+      },
+      {
+        "name": "Bút máy Thiên long",
+        "quantity": 1,
+        "unit_price": 57000,
+        "total": 57000
+      },
+      {
+        "name": "Hộp bút 7083",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Giấy kê tay kim",
+        "quantity": 1,
+        "unit_price": 4000,
+        "total": 4000
+      },
+      {
+        "name": "Vở Pokemon 80Tr",
+        "quantity": 10,
+        "unit_price": 12000,
+        "total": 120000
+      },
+      {
+        "name": "Vở Four Season",
+        "quantity": 17,
+        "unit_price": 10000,
+        "total": 170000
+      },
+      {
+        "name": "Rút gáy",
+        "quantity": 1,
+        "unit_price": 6000,
+        "total": 6000
+      },
+      {
+        "name": "Vở kẻ ngang 120 tr",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "Balo hình các loại",
+        "quantity": 1,
+        "unit_price": 170000,
+        "total": 170000
+      },
+      {
+        "name": "Bút 284+Z19C29",
+        "quantity": 1,
+        "unit_price": 19000,
+        "total": 19000
+      },
+      {
+        "name": "Móc khóa thẻ",
+        "quantity": 1,
+        "unit_price": 40000,
+        "total": 40000
+      }
+    ],
+    "subtotal": 973000,
+    "vat": null,
+    "total_amount": 973000,
+    "payment_method": "unknown",
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0010.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "Phương Hoa",
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Giường Hương Xám 1m8 x 2m",
+        "quantity": 1,
+        "unit_price": 7200000,
+        "total": 7200000
+      },
+      {
+        "name": "Bàn Thờ Sồi vẽ Van",
+        "quantity": 1,
+        "unit_price": 3500000,
+        "total": 3500000
+      },
+      {
+        "name": "Táp Hương Xám",
+        "quantity": 1,
+        "unit_price": 1000000,
+        "total": 1000000
+      },
+      {
+        "name": "Tủ giày Xoan Đào",
+        "quantity": 1,
+        "unit_price": 1600000,
+        "total": 1600000
+      },
+      {
+        "name": "Bộ đệm ghế",
+        "quantity": 1,
+        "unit_price": 2500000,
+        "total": 2500000
+      }
+    ],
+    "subtotal": 15800000,
+    "vat": null,
+    "total_amount": 16200000,
+    "payment_method": null,
+    "category": "Nhà cửa",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0041.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "CÔNG TY CP HOÀNG LONG",
+    "date": "15-06-2022",
+    "time": null,
+    "items": [
+      {
+        "name": "VÉ XE KHÁCH",
+        "quantity": 1,
+        "unit_price": 120000,
+        "total": 120000
+      }
+    ],
+    "subtotal": 120000,
+    "vat": null,
+    "total_amount": 120000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0003.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "Đinh Thị Mai Hòa",
+    "date": "15-12-2044",
+    "time": null,
+    "items": [
+      {
+        "name": "Chăn lưới dây IQ",
+        "quantity": 41,
+        "unit_price": 700000,
+        "total": 28700000
+      },
+      {
+        "name": "Gối cháu",
+        "quantity": 1,
+        "unit_price": 19300,
+        "total": 19300
+      }
+    ],
+    "subtotal": 28719500,
+    "vat": null,
+    "total_amount": 28719300,
+    "payment_method": "unknown",
+    "category": "Mua sắm",
+    "confidence": "medium"
+  },
+  {
+    "image": "pos_clean_0020.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "THE COFFEE HOUSE",
+    "date": "01-10-2020",
+    "time": "13:18",
+    "items": [
+      {
+        "name": "Cà Phê Sữa Đá (Vừa)",
+        "quantity": 1,
+        "unit_price": 35000,
+        "total": 35000
+      },
+      {
+        "name": "Bánh Mì Gà Kim Quất (Cay)",
+        "quantity": 1,
+        "unit_price": 32000,
+        "total": 32000
+      }
+    ],
+    "subtotal": 67000,
+    "vat": null,
+    "total_amount": 49000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0009.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "SIÊU THỊ MINH LOAN",
+    "date": "18-07-2020",
+    "time": "12:33",
+    "items": [
+      {
+        "name": "Sữa TH gói ít đường",
+        "quantity": 5,
+        "unit_price": 7000,
+        "total": 35000
+      },
+      {
+        "name": "sáp thơm Airbipur hương hoa hồng",
+        "quantity": 1,
+        "unit_price": 45000,
+        "total": 45000
+      },
+      {
+        "name": "Bánh mỳ Hoa Cúc 210g",
+        "quantity": 1,
+        "unit_price": 88000,
+        "total": 88000
+      }
+    ],
+    "subtotal": 168000,
+    "vat": null,
+    "total_amount": 168000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0032.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": null,
+    "date": "06-02-2025",
+    "time": "10:46",
+    "items": [
+      {
+        "name": "SH1",
+        "quantity": 10,
+        "unit_price": 7500,
+        "total": null
+      },
+      {
+        "name": "SH2",
+        "quantity": 10,
+        "unit_price": 9400,
+        "total": null
+      },
+      {
+        "name": "SH3",
+        "quantity": 10,
+        "unit_price": 10700,
+        "total": null
+      },
+      {
+        "name": "SH4",
+        "quantity": 1,
+        "unit_price": 13900,
+        "total": null
+      }
+    ],
+    "subtotal": 289900,
+    "vat": 14495,
+    "total_amount": 333385,
+    "payment_method": null,
+    "category": "Hoá đơn tiện ích",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0009.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "NGUYỄN THỊ KHANH",
+    "date": "21-06-2017",
+    "time": null,
+    "items": [
+      {
+        "name": "Gương nhà vệ sinh",
+        "quantity": 2,
+        "unit_price": 318000,
+        "total": 636000
+      },
+      {
+        "name": "Bệt Viglacera",
+        "quantity": 2,
+        "unit_price": 3425000,
+        "total": 6850000
+      },
+      {
+        "name": "Bóng đèn hành lang",
+        "quantity": 2,
+        "unit_price": 320000,
+        "total": 640000
+      },
+      {
+        "name": "Chậu rửa chân treo tường",
+        "quantity": 2,
+        "unit_price": 1646000,
+        "total": 3292000
+      },
+      {
+        "name": "Van tiểu nam Viglacera",
+        "quantity": 3,
+        "unit_price": 1620000,
+        "total": 4860000
+      },
+      {
+        "name": "Bộ xã tiểu Viglacera",
+        "quantity": 1,
+        "unit_price": 2544000,
+        "total": 2544000
+      }
+    ],
+    "subtotal": 18822000,
+    "vat": null,
+    "total_amount": 18822000,
+    "payment_method": "unknown",
+    "category": "Nhà cửa",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0033.jpg",
+    "group": "05_low_quality",
+    "merchant_name": null,
+    "date": "17-03-2025",
+    "time": "19:20",
+    "items": [
+      {
+        "name": "ỐC VÒI VOI / ELEPHANT CLAM",
+        "quantity": 0.97,
+        "unit_price": 1400000,
+        "total": 1358000
+      },
+      {
+        "name": "TÔM HÙM BÔNG TỪ 0.7KG < 1KG / CRAYFISH 0.7KG < 1KG",
+        "quantity": 0.73,
+        "unit_price": 2000000,
+        "total": 1460000
+      },
+      {
+        "name": "CÁ CHÌNH / SEA EEL",
+        "quantity": 1,
+        "unit_price": 700000,
+        "total": 700000
+      },
+      {
+        "name": "NƯỚC ÉP CHANH DÂY / PASSION FRUIT JUICE",
+        "quantity": 2,
+        "unit_price": 59000,
+        "total": 118000
+      },
+      {
+        "name": "CÀ PHÊ ĐEN - BLACK COFFEE",
+        "quantity": 2,
+        "unit_price": 38000,
+        "total": 76000
+      },
+      {
+        "name": "SODA XOÀI / MANGO SODA",
+        "quantity": 1,
+        "unit_price": 59000,
+        "total": 59000
+      },
+      {
+        "name": "BIA TƯƠI TIGER 500ml",
+        "quantity": 2,
+        "unit_price": 58000,
+        "total": 116000
+      },
+      {
+        "name": "SINH TỐ XOÀI / THƠM / MANGO / PINEAPPLE SMOOTHIE",
+        "quantity": 1,
+        "unit_price": 55000,
+        "total": 55000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 3942000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0033.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Café Mộc Lan",
+    "date": "11-09-2020",
+    "time": "10:31",
+    "items": [
+      {
+        "name": "Bò Húc",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Café Đen",
+        "quantity": 2,
+        "unit_price": 8000,
+        "total": 16000
+      },
+      {
+        "name": "Café Sữa",
+        "quantity": 2,
+        "unit_price": 10000,
+        "total": 20000
+      },
+      {
+        "name": "Kem",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Nước Cam",
+        "quantity": 1,
+        "unit_price": 17000,
+        "total": 17000
+      },
+      {
+        "name": "Nước Chanh",
+        "quantity": 1,
+        "unit_price": 12000,
+        "total": 12000
+      },
+      {
+        "name": "Sâm Dứa",
+        "quantity": 1,
+        "unit_price": 18000,
+        "total": 18000
+      },
+      {
+        "name": "Sữa Chua",
+        "quantity": 1,
+        "unit_price": 7000,
+        "total": 7000
+      }
+    ],
+    "subtotal": 120000,
+    "vat": 0,
+    "total_amount": 120000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0021.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN ĐƯỜNG CAO TỐC VIỆT NAM - CTY TNHH MTV",
+    "date": "14-08-2020",
+    "time": null,
+    "items": [
+      {
+        "name": "Xe dưới 12 ghế ngồi",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 70000
+      },
+      {
+        "name": "Xe có tải trọng dưới 2 tấn",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 35000
+      }
+    ],
+    "subtotal": 105000,
+    "vat": null,
+    "total_amount": 105000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0019.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "Co.opMart NGUYEN DINH CHIEU",
+    "date": "21-05-2020",
+    "time": "16:44",
+    "items": [
+      {
+        "name": "Kem Wall's Soco H.Nhan 75",
+        "quantity": 1,
+        "unit_price": 103500,
+        "total": 103500
+      },
+      {
+        "name": "Ha cao VISSAN 250g",
+        "quantity": 1,
+        "unit_price": 23300,
+        "total": 23300
+      },
+      {
+        "name": "Ha cao VISSAN 250g",
+        "quantity": 1,
+        "unit_price": 23300,
+        "total": 23300
+      },
+      {
+        "name": "Xuc xich trung muoi G FED",
+        "quantity": 1,
+        "unit_price": 38000,
+        "total": 38000
+      },
+      {
+        "name": "Lap xuong tuoi LC 500g",
+        "quantity": 1,
+        "unit_price": 127800,
+        "total": 127800
+      },
+      {
+        "name": "SCU TH Yogurt caramen 170",
+        "quantity": 1,
+        "unit_price": 11500,
+        "total": 11500
+      },
+      {
+        "name": "Banh da cua HOANGGIA 120g",
+        "quantity": 5,
+        "unit_price": 18400,
+        "total": 92000
+      },
+      {
+        "name": "DG CLEAR ml bha skhoa1630",
+        "quantity": 1,
+        "unit_price": 152000,
+        "total": 152000
+      },
+      {
+        "name": "KX/DXDoveOXYMOISTUREdtbb",
+        "quantity": 1,
+        "unit_price": 83000,
+        "total": 83000
+      },
+      {
+        "name": "KDR CloseUp Bacha230g+BCD",
+        "quantity": 1,
+        "unit_price": 84000,
+        "total": 84000
+      },
+      {
+        "name": "Kem cat da NGHIA D-555",
+        "quantity": 1,
+        "unit_price": 82000,
+        "total": 82000
+      },
+      {
+        "name": "XB Coast Classic 113g",
+        "quantity": 3,
+        "unit_price": 20000,
+        "total": 60000
+      }
+    ],
+    "subtotal": 880400,
+    "vat": null,
+    "total_amount": 880400,
+    "payment_method": "card",
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0031.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "Co.op Food",
+    "date": "20-09-2019",
+    "time": "10:25",
+    "items": [
+      {
+        "name": "Ca Ro phi kg",
+        "quantity": 0.598,
+        "unit_price": 80500,
+        "total": 48139
+      }
+    ],
+    "subtotal": 48139,
+    "vat": 2292,
+    "total_amount": 48139,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0052.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": null,
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Học phí kỳ 1 - 2020",
+        "quantity": 1,
+        "unit_price": 455000,
+        "total": 455000
+      },
+      {
+        "name": "Học phí kỳ 2 - 2020",
+        "quantity": 1,
+        "unit_price": 455000,
+        "total": 455000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 910000,
+    "payment_method": null,
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0031.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "CÔNG TY CỔ PHẦN ĐÔ THỊ CAM RANH",
+    "date": "30-11-2023",
+    "time": null,
+    "items": [
+      {
+        "name": "Sản xuất",
+        "quantity": 870,
+        "unit_price": 13600,
+        "total": 11832000
+      }
+    ],
+    "subtotal": 11832000,
+    "vat": 591600,
+    "total_amount": 13606800,
+    "payment_method": null,
+    "category": "Hoá đơn tiện ích",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0026.jpg",
+    "group": "05_low_quality",
+    "merchant_name": null,
+    "date": "13-08-2020",
+    "time": "10:53",
+    "items": [
+      {
+        "name": "KDR colgate maxfresh 200g NT",
+        "quantity": 1,
+        "unit_price": 30000,
+        "total": 30000
+      },
+      {
+        "name": "Bột giặt orno comfor 720g NT",
+        "quantity": 1,
+        "unit_price": 31000,
+        "total": 31000
+      }
+    ],
+    "subtotal": 61000,
+    "vat": null,
+    "total_amount": 61000,
+    "payment_method": null,
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0017.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "MINIMART ANAN",
+    "date": "17-08-2020",
+    "time": "18:39",
+    "items": [
+      {
+        "name": "Thạch rau câu Long Hải vị 5 NT",
+        "quantity": 2,
+        "unit_price": 8000,
+        "total": 16000
+      },
+      {
+        "name": "Bánh Custas 6p 138g NT",
+        "quantity": 1,
+        "unit_price": 28000,
+        "total": 28000
+      },
+      {
+        "name": "Bánh Custas 12p NT",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      },
+      {
+        "name": "kẹo lạc,đổi vừng siu châu. NT",
+        "quantity": 4,
+        "unit_price": 15000,
+        "total": 60000
+      },
+      {
+        "name": "Thạch joy VF hoa quả 800g NT",
+        "quantity": 1,
+        "unit_price": 20000,
+        "total": 20000
+      },
+      {
+        "name": "kẹo bibica chewgum gói 270g N0",
+        "quantity": 1,
+        "unit_price": 22000,
+        "total": 22000
+      },
+      {
+        "name": "kẹo sữa alpenliebe 360g NT",
+        "quantity": 1,
+        "unit_price": 28000,
+        "total": 28000
+      },
+      {
+        "name": "bánh gạo an gói 151g N0",
+        "quantity": 2,
+        "unit_price": 15000,
+        "total": 30000
+      },
+      {
+        "name": "Thạch sữa chua vf, odeli 1k NT",
+        "quantity": 1,
+        "unit_price": 30000,
+        "total": 30000
+      },
+      {
+        "name": "kẹo chanh muối vitamin c Th N0",
+        "quantity": 1,
+        "unit_price": 16000,
+        "total": 16000
+      },
+      {
+        "name": "xúc xích cp 8, 10 dài NT",
+        "quantity": 2,
+        "unit_price": 46000,
+        "total": 92000
+      }
+    ],
+    "subtotal": 392000,
+    "vat": null,
+    "total_amount": 392000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0024.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "VinCommerce",
+    "date": "09-08-2020",
+    "time": "14:09",
+    "items": [
+      {
+        "name": "NƯỚC Isotonic 7 Up Revive chai500ml",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      }
+    ],
+    "subtotal": 39000,
+    "vat": null,
+    "total_amount": 39000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0009.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "NHÀ SÁCH GD-TC CẨM PHẢ",
+    "date": "09-08-2020",
+    "time": "18:55",
+    "items": [
+      {
+        "name": "Ngữ văn 10/1",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "Đại số 10",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "Hình học 10",
+        "quantity": 1,
+        "unit_price": 6000,
+        "total": 6000
+      },
+      {
+        "name": "Hóa học 10",
+        "quantity": 1,
+        "unit_price": 14000,
+        "total": 14000
+      },
+      {
+        "name": "Lịch sử 10",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Sinh học 10",
+        "quantity": 1,
+        "unit_price": 11000,
+        "total": 11000
+      },
+      {
+        "name": "GDCD 10",
+        "quantity": 1,
+        "unit_price": 7000,
+        "total": 7000
+      },
+      {
+        "name": "Công nghệ 10",
+        "quantity": 1,
+        "unit_price": 16000,
+        "total": 16000
+      },
+      {
+        "name": "Tiếng Anh 10",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Tin 10",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "GD quốc phòng",
+        "quantity": 1,
+        "unit_price": 9000,
+        "total": 9000
+      },
+      {
+        "name": "Vật lí 10",
+        "quantity": 1,
+        "unit_price": 17000,
+        "total": 17000
+      },
+      {
+        "name": "1-Giải BT hình 10",
+        "quantity": 1,
+        "unit_price": 27000,
+        "total": 27000
+      },
+      {
+        "name": "1-Giải BT đại 10",
+        "quantity": 1,
+        "unit_price": 34000,
+        "total": 34000
+      },
+      {
+        "name": "5- HT ngữ văn 10/1",
+        "quantity": 1,
+        "unit_price": 37000,
+        "total": 37000
+      },
+      {
+        "name": "VPP Loại 4K",
+        "quantity": 1,
+        "unit_price": 4000,
+        "total": 4000
+      },
+      {
+        "name": "Bọc SGK NC-102",
+        "quantity": 2,
+        "unit_price": 17000,
+        "total": 34000
+      },
+      {
+        "name": "Bút TL 025",
+        "quantity": 1,
+        "unit_price": 5000,
+        "total": 5000
+      },
+      {
+        "name": "Chì TL GP-03",
+        "quantity": 1,
+        "unit_price": 5000,
+        "total": 5000
+      },
+      {
+        "name": "Sổ nhật ký",
+        "quantity": 1,
+        "unit_price": 5000,
+        "total": 5000
+      }
+    ],
+    "subtotal": 291000,
+    "vat": null,
+    "total_amount": 291000,
+    "payment_method": "unknown",
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0004.jpg",
+    "group": "05_low_quality",
+    "merchant_name": null,
+    "date": null,
+    "time": null,
+    "items": [
+      {
+        "name": "Trà mạn (ice/hot) Viet nam Green tea",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "Cà phê Vivienne Vivienne coffee",
+        "quantity": 2,
+        "unit_price": 90000,
+        "total": 180000
+      },
+      {
+        "name": "Nước hoa quả tự chọn Mix juice",
+        "quantity": 2,
+        "unit_price": 90000,
+        "total": 180000
+      },
+      {
+        "name": "sinh tố bơ Avocado smothies",
+        "quantity": 1,
+        "unit_price": 90000,
+        "total": 90000
+      },
+      {
+        "name": "hạt hướng dương Sun flower seeds",
+        "quantity": 2,
+        "unit_price": 40000,
+        "total": 80000
+      }
+    ],
+    "subtotal": 590000,
+    "vat": 59000,
+    "total_amount": 649000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0023.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": null,
+    "date": "17-10-2022",
+    "time": "10:03",
+    "items": [
+      {
+        "name": "Đặt phòng khách sạn",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 974000
+      }
+    ],
+    "subtotal": 974000,
+    "vat": null,
+    "total_amount": 876600,
+    "payment_method": "unknown",
+    "category": "Du lịch",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0025.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINIMART ANAN",
+    "date": "11-08-2020",
+    "time": "20:31",
+    "items": [
+      {
+        "name": "bột yến mạch good oats gói NC",
+        "quantity": 1,
+        "unit_price": 52000,
+        "total": 52000
+      },
+      {
+        "name": "Sữa chua đường VNM 100g NT",
+        "quantity": 4,
+        "unit_price": 5250,
+        "total": 21000
+      },
+      {
+        "name": "Bánh mì ruốc stass hải châu NT",
+        "quantity": 10,
+        "unit_price": 4200,
+        "total": 42000
+      }
+    ],
+    "subtotal": 115000,
+    "vat": null,
+    "total_amount": 115000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0032.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINH HIỀN VEGETARIAN RESTAURANT",
+    "date": "12-03-2017",
+    "time": "13:49",
+    "items": [
+      {
+        "name": "333",
+        "quantity": 1,
+        "unit_price": 20000,
+        "total": 20000
+      },
+      {
+        "name": "Hoi An Special Noodle",
+        "quantity": 1,
+        "unit_price": 29000,
+        "total": 29000
+      },
+      {
+        "name": "Sauteed Hoi An Special Noodle",
+        "quantity": 1,
+        "unit_price": 45000,
+        "total": 45000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 94000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0064.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "NHÀ THUỐC BỆNH VIỆN ĐA KHOA HÀ ĐÔNG",
+    "date": "04-11-2022",
+    "time": "22:48",
+    "items": [
+      {
+        "name": "TRIMOXTAL 500",
+        "quantity": 21,
+        "unit_price": 18000,
+        "total": 378000
+      },
+      {
+        "name": "Fogyma",
+        "quantity": 40,
+        "unit_price": 8000,
+        "total": 320000
+      },
+      {
+        "name": "Stiprol (Glycerol) 9g h/6 tub thụt",
+        "quantity": 2,
+        "unit_price": 7400,
+        "total": 14800
+      },
+      {
+        "name": "Povidon iod 10%/150ml",
+        "quantity": 1,
+        "unit_price": 25500,
+        "total": 25500
+      },
+      {
+        "name": "vòng tay một lần",
+        "quantity": 2,
+        "unit_price": 10000,
+        "total": 20000
+      },
+      {
+        "name": "BONE-ER Vitamin D3-K2",
+        "quantity": 1,
+        "unit_price": 293000,
+        "total": 293000
+      }
+    ],
+    "subtotal": 1051300,
+    "vat": null,
+    "total_amount": 1051300,
+    "payment_method": "unknown",
+    "category": "Sức khoẻ",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0005.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "TRUNG TÂM BẢO HÀNH CÔNG TY LÊ BẢO MINH",
+    "date": "07-02-2026",
+    "time": null,
+    "items": [
+      {
+        "name": "Thay main",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 13000000
+      }
+    ],
+    "subtotal": 13000000,
+    "vat": null,
+    "total_amount": 13000000,
+    "payment_method": null,
+    "category": "Mua sắm",
+    "confidence": "medium"
+  },
+  {
+    "image": "vat_invoice_0027.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CÔNG TY TNHH XYZ",
+    "date": "13-05-2020",
+    "time": null,
+    "items": [
+      {
+        "name": "Số vé 46455690 - Chuyến bay VJ512 - Hành trình DAD-HAN",
+        "quantity": 1,
+        "unit_price": 580000,
+        "total": 580000
+      },
+      {
+        "name": "Số vé 46455691 - Chuyến bay VJ512 - Hành trình DAD-HAN",
+        "quantity": 1,
+        "unit_price": 580000,
+        "total": 580000
+      }
+    ],
+    "subtotal": 1160000,
+    "vat": 116000,
+    "total_amount": 1436000,
+    "payment_method": "cash",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0015.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "Công ty TNHH Dịch Vụ Kế Toán Thiên Ưng",
+    "date": "02-01-2026",
+    "time": null,
+    "items": [
+      {
+        "name": "Trả tiền học phí khóa học thực hành kế toán thuế",
+        "quantity": 1,
+        "unit_price": null,
+        "total": 1800000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 1800000,
+    "payment_method": "cash",
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0054.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "XÍ NGHIỆP XE BUÝT NHANH BRT HÀ NỘI - CHI NHÁNH TCT VẬN TẢI HÀ NỘI",
+    "date": "08-02-2026",
+    "time": "07:37",
+    "items": [
+      {
+        "name": "Vé tuyến buýt 68",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      }
+    ],
+    "subtotal": 50000,
+    "vat": null,
+    "total_amount": 50000,
+    "payment_method": null,
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0047.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "CÔNG TY XĂNG DẦU THANH HÓA",
+    "date": "01-04-2018",
+    "time": "05:49",
+    "items": [
+      {
+        "name": "DO 0.001S-V",
+        "quantity": 363.18,
+        "unit_price": 14518,
+        "total": 5272727
+      }
+    ],
+    "subtotal": 5272727,
+    "vat": 527273,
+    "total_amount": 5800000,
+    "payment_method": "card",
+    "category": "Đi lại",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0022.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Happy Holiday Resort - Demo1",
+    "date": "30-09-2024",
+    "time": "17:11",
+    "items": [
+      {
+        "name": "Tiền phòng Bao gồm bữa sáng",
+        "quantity": 1,
+        "unit_price": 800000,
+        "total": 800000
+      },
+      {
+        "name": "Tiền phòng Bao gồm bữa sáng",
+        "quantity": 1,
+        "unit_price": 800000,
+        "total": 800000
+      }
+    ],
+    "subtotal": 1600000,
+    "vat": null,
+    "total_amount": 1600000,
+    "payment_method": "transfer",
+    "category": "Du lịch",
+    "confidence": "high"
+  },
+  {
+    "image": "long_invoice_0027.jpg",
+    "group": "03_long_invoice",
+    "merchant_name": "NHÀ SÁCH GD-TC CẨM PHẢ",
+    "date": "14-08-2020",
+    "time": "20:15",
+    "items": [
+      {
+        "name": "Giấy nhăn màu 3*3",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Ví bút trong 19-11",
+        "quantity": 1,
+        "unit_price": 37000,
+        "total": 37000
+      },
+      {
+        "name": "Bút bi 027",
+        "quantity": 4,
+        "unit_price": 3500,
+        "total": 14000
+      },
+      {
+        "name": "Bút dạ quang 70+",
+        "quantity": 1,
+        "unit_price": 28000,
+        "total": 28000
+      },
+      {
+        "name": "Chì kim S329",
+        "quantity": 1,
+        "unit_price": 10000,
+        "total": 10000
+      },
+      {
+        "name": "Ngòi chì kim PL101",
+        "quantity": 1,
+        "unit_price": 6000,
+        "total": 6000
+      },
+      {
+        "name": "Tẩy MG 4B",
+        "quantity": 1,
+        "unit_price": 5000,
+        "total": 5000
+      },
+      {
+        "name": "Thước sắt 20cm",
+        "quantity": 1,
+        "unit_price": 13000,
+        "total": 13000
+      },
+      {
+        "name": "Vở kẻ ngang",
+        "quantity": 2,
+        "unit_price": 33000,
+        "total": 66000
+      },
+      {
+        "name": "Hình học 11",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total": 8000
+      }
+    ],
+    "subtotal": 202000,
+    "vat": null,
+    "total_amount": 202000,
+    "payment_method": "unknown",
+    "category": "Giáo dục",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0022.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "MINIMART ANAN",
+    "date": "17-08-2020",
+    "time": "14:59",
+    "items": [
+      {
+        "name": "Sữa bột pedia NT",
+        "quantity": 1,
+        "unit_price": 950000,
+        "total": 950000
+      },
+      {
+        "name": "Thuốc lá 3 số 555 NT",
+        "quantity": 1,
+        "unit_price": 29000,
+        "total": 29000
+      },
+      {
+        "name": "Kem merino super teen NT",
+        "quantity": 1,
+        "unit_price": 9000,
+        "total": 9000
+      },
+      {
+        "name": "kem merino celano trân châu N0",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 1003000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0004.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "PHỞ MỞ",
+    "date": "13-08-2020",
+    "time": "21:02",
+    "items": [
+      {
+        "name": "Trà chanh đào nhiệt đới",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total": 15000
+      },
+      {
+        "name": "Trà Quất Lắc Sữa Bạc Hà",
+        "quantity": 1,
+        "unit_price": 20000,
+        "total": 20000
+      }
+    ],
+    "subtotal": 35000,
+    "vat": 0,
+    "total_amount": 35000,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "handwritten_0011.jpg",
+    "group": "04_handwritten",
+    "merchant_name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NỘI THẤT THUẬN HÒA",
+    "date": "21-03-2016",
+    "time": null,
+    "items": [
+      {
+        "name": "Tủ sắt",
+        "quantity": 4,
+        "unit_price": 1239500,
+        "total": 4958000
+      },
+      {
+        "name": "Bàn",
+        "quantity": 6,
+        "unit_price": 356000,
+        "total": 2136000
+      }
+    ],
+    "subtotal": 7094000,
+    "vat": 709400,
+    "total_amount": 7803400,
+    "payment_method": "cash",
+    "category": "Nhà cửa",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0003.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "Cari Trương",
+    "date": "16-08-2018",
+    "time": "22:26",
+    "items": [
+      {
+        "name": "Bia tươi",
+        "quantity": 5,
+        "unit_price": 30000,
+        "total": 150000
+      },
+      {
+        "name": "Cơm bò sốt tiêu",
+        "quantity": 1,
+        "unit_price": 65000,
+        "total": 65000
+      },
+      {
+        "name": "Nem rán thịt",
+        "quantity": 1,
+        "unit_price": 65000,
+        "total": 65000
+      },
+      {
+        "name": "Khoai tây chiên",
+        "quantity": 1,
+        "unit_price": 60000,
+        "total": 60000
+      },
+      {
+        "name": "coke",
+        "quantity": 1,
+        "unit_price": 20000,
+        "total": 20000
+      },
+      {
+        "name": "weed",
+        "quantity": 1,
+        "unit_price": 150000,
+        "total": 150000
+      }
+    ],
+    "subtotal": 510000,
+    "vat": null,
+    "total_amount": 510000,
+    "payment_method": "unknown",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0027.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "CÔNG TY CP CẤP NƯỚC THỐT NỐT",
+    "date": "20-02-2020",
+    "time": null,
+    "items": [
+      {
+        "name": "Nước sinh hoạt mức D (10 m3)",
+        "quantity": 10,
+        "unit_price": 5238,
+        "total": 52381
+      },
+      {
+        "name": "Nước sinh hoạt mức D (5 m3)",
+        "quantity": 5,
+        "unit_price": 6476,
+        "total": 32381
+      }
+    ],
+    "subtotal": 84762,
+    "vat": 4238,
+    "total_amount": 93500,
+    "payment_method": null,
+    "category": "Hoá đơn tiện ích",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0053.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Bệnh Viện Từ Dũ - Nhà thuốc 227 Cống Quỳnh",
+    "date": "12-01-2023",
+    "time": "12:47",
+    "items": [
+      {
+        "name": "Saferon",
+        "quantity": 30,
+        "unit_price": 4620,
+        "total": 138600
+      },
+      {
+        "name": "Gyfor 100ml",
+        "quantity": 1,
+        "unit_price": 40232,
+        "total": 40232
+      },
+      {
+        "name": "Clogin elle",
+        "quantity": 10,
+        "unit_price": 31565,
+        "total": 315650
+      }
+    ],
+    "subtotal": null,
+    "vat": null,
+    "total_amount": 494482,
+    "payment_method": null,
+    "category": "Sức khoẻ",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0011.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "TỔNG CÔNG TY CỔ PHẦN MAY VIỆT TIẾN",
+    "date": "05-02-2015",
+    "time": null,
+    "items": [
+      {
+        "name": "SOMI 1E2062BT3/ L2V (BLACK)",
+        "quantity": 15,
+        "unit_price": 197500,
+        "total": 2962500
+      },
+      {
+        "name": "SOMI 1E2367BT6/ L3V",
+        "quantity": 15,
+        "unit_price": 428500,
+        "total": 6427500
+      },
+      {
+        "name": "SOMI 1E2406BT4/ L4V",
+        "quantity": 30,
+        "unit_price": 288500,
+        "total": 8655000
+      }
+    ],
+    "subtotal": 18045000,
+    "vat": 1804500,
+    "total_amount": 19849500,
+    "payment_method": "transfer",
+    "category": "Mua sắm",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0006.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "Tổng Công ty Điện lực TP Hà Nội - Công ty Điện lực Thanh Trì",
+    "date": "07-05-2022",
+    "time": "10:26",
+    "items": [
+      {
+        "name": "Điện tiêu thụ - Kỳ hóa đơn: Tháng 5/2022 từ 07/04/2022 đến 06/05/2022",
+        "quantity": 199,
+        "unit_price": null,
+        "total": 369986
+      }
+    ],
+    "subtotal": 369986,
+    "vat": 29599,
+    "total_amount": 399585,
+    "payment_method": "unknown",
+    "category": "Hoá đơn tiện ích",
+    "confidence": "high"
+  },
+  {
+    "image": "vat_invoice_0016.jpg",
+    "group": "02_vat_invoice",
+    "merchant_name": "CHI NHÁNH BẮC NINH - CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM",
+    "date": "24-01-2025",
+    "time": null,
+    "items": [
+      {
+        "name": "Cước phí vận chuyển mã 01JW0M4DC8CYKCYQN7KKB8WS1W",
+        "quantity": 1,
+        "unit_price": 36111,
+        "total": 36111
+      }
+    ],
+    "subtotal": 36111,
+    "vat": 2889,
+    "total_amount": 39000,
+    "payment_method": "card",
+    "category": "Khác",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0043.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "trasencodau",
+    "date": "07-07-2024",
+    "time": null,
+    "items": [
+      {
+        "name": "Bít tết",
+        "quantity": 7,
+        "unit_price": 40000,
+        "total": 280000
+      },
+      {
+        "name": "Cháo đậu đỏ cá bống",
+        "quantity": 2,
+        "unit_price": 30000,
+        "total": 60000
+      },
+      {
+        "name": "Phụ thu do Ăn không Uống",
+        "quantity": 9,
+        "unit_price": 10000,
+        "total": 90000
+      }
+    ],
+    "subtotal": 430000,
+    "vat": null,
+    "total_amount": 430000,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0010.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "CỬA HÀNG NĂM OÁNH",
+    "date": "12-08-2020",
+    "time": null,
+    "items": [
+      {
+        "name": "Cháo Sườn hầm đậu xanh 50g",
+        "quantity": 3,
+        "unit_price": 6000,
+        "total": 18000
+      },
+      {
+        "name": "Cháo Tổ Yến TN 50g",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total": 8000
+      },
+      {
+        "name": "Cháo Tổ Yến Thịt 50g",
+        "quantity": 1,
+        "unit_price": 7500,
+        "total": 7500
+      },
+      {
+        "name": "Núm Pigeon L trắng",
+        "quantity": 2,
+        "unit_price": 16000,
+        "total": 32000
+      }
+    ],
+    "subtotal": 65500,
+    "vat": null,
+    "total_amount": 65500,
+    "payment_method": null,
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "pos_clean_0011.jpg",
+    "group": "01_pos_clean",
+    "merchant_name": "Nhà hàng A Vương",
+    "date": "05-11-2025",
+    "time": "08:25",
+    "items": [
+      {
+        "name": "Phở gà đùi",
+        "quantity": 1,
+        "unit_price": 70000,
+        "total": 70000
+      },
+      {
+        "name": "Rượu Macallan 2",
+        "quantity": 1,
+        "unit_price": 2000000,
+        "total": 2000000
+      }
+    ],
+    "subtotal": 2070000,
+    "vat": 103500,
+    "total_amount": 2380500,
+    "payment_method": "cash",
+    "category": "Ăn uống",
+    "confidence": "high"
+  },
+  {
+    "image": "low_quality_0050.jpg",
+    "group": "05_low_quality",
+    "merchant_name": "KHÁCH SẠN THẢO MY",
+    "date": "12-02-2015",
+    "time": null,
+    "items": [
+      {
+        "name": "Khăn",
+        "quantity": 5,
+        "unit_price": 5000,
+        "total": 25000
+      },
+      {
+        "name": "Trái Cây",
+        "quantity": 2,
+        "unit_price": 80000,
+        "total": 160000
+      },
+      {
+        "name": "Sài gòn xanh",
+        "quantity": 20,
+        "unit_price": 20000,
+        "total": 400000
+      },
+      {
+        "name": "Bánh kẹo",
+        "quantity": 1,
+        "unit_price": 50000,
+        "total": 50000
+      },
+      {
+        "name": "Tiền phòng (Phòng 108, 2 giờ)",
+        "quantity": 1,
+        "unit_price": 300000,
+        "total": 300000
+      }
+    ],
+    "subtotal": 935000,
+    "vat": null,
+    "total_amount": 935000,
+    "payment_method": null,
+    "category": "Du lịch",
+    "confidence": "high"
+  }
+]

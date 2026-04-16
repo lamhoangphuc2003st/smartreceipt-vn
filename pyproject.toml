@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "smart-receipt-vn"
+version = "0.9.0"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.29",
+    "slowapi>=0.1.9",
+    "python-multipart>=0.0.9",
+    "pydantic>=2.0",
+    "google-genai",
+    "opencv-python-headless",
+    "Pillow",
+    "numpy",
+    "rapidfuzz",
+    "transformers",
+    "torch",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

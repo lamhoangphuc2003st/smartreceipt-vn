@@ -1,0 +1,197 @@
+filename,group,merchant_name,date,has_vat,total_amount,notes
+pos_clean_0000.jpg,01_pos_clean,VinCommerce,2020-08-14,False,81302,rotated
+pos_clean_0001.jpg,01_pos_clean,VinCommerce,2020-08-14,False,52700,
+pos_clean_0002.jpg,01_pos_clean,MINIMART ANAN,2020-08-09,False,63000,
+pos_clean_0003.jpg,01_pos_clean,MINIMART ANAN,2020-08-13,False,27000,
+pos_clean_0004.jpg,01_pos_clean,PHỞ MỞ,2020-08-13,False,35000,
+pos_clean_0005.jpg,01_pos_clean,CỬA HÀNG NĂM OÁNH,2020-08-12,False,133000,
+pos_clean_0006.jpg,01_pos_clean,MINIMART ANAN,2020-08-10,False,74000,
+pos_clean_0007.jpg,01_pos_clean,Bệnh viện Đa Khoa Bình Thuận,2025-01-09,False,19474000,
+pos_clean_0008.jpg,01_pos_clean,THE COFFEE HOUSE,2020-10-02,False,49000,
+pos_clean_0009.jpg,01_pos_clean,SIÊU THỊ MINH LOAN,2020-07-18,False,168000,
+pos_clean_0010.jpg,01_pos_clean,CỬA HÀNG NĂM OÁNH,2020-08-12,False,65500,
+pos_clean_0011.jpg,01_pos_clean,Nhà hàng A Vương,2025-11-05,True,2380500,
+pos_clean_0012.jpg,01_pos_clean,,2025-06-10,False,10500000,not_a_receipt
+pos_clean_0013.jpg,01_pos_clean,,2022-12-06,False,22400,
+pos_clean_0014.jpg,01_pos_clean,Electronics 555,2024-01-01,False,70460000,
+pos_clean_0015.jpg,01_pos_clean,Guardian Nguyen Thi Minh Khai,2025-07-09,True,1050000,
+pos_clean_0016.jpg,01_pos_clean,MARUKAME UDON & TEMPURA,2018-02-18,True,160600,
+pos_clean_0017.jpg,01_pos_clean,VinCommerce,2020-08-12,False,14544,
+pos_clean_0018.jpg,01_pos_clean,VinCommerce,2020-08-12,True,309000,
+pos_clean_0019.jpg,01_pos_clean,VinCommerce,2020-08-11,False,22000,
+pos_clean_0020.jpg,01_pos_clean,THE COFFEE HOUSE,2020-10-01,False,49000,
+pos_clean_0021.jpg,01_pos_clean,VietAZ hotel,,True,1532000,date is out of range (2010-07-21)
+pos_clean_0022.jpg,01_pos_clean,Happy Holiday Resort - Demo1,2024-09-30,False,1600000,
+pos_clean_0023.jpg,01_pos_clean,Ví VNPAY,2022-10-17,False,876600,
+pos_clean_0024.jpg,01_pos_clean,KHÁCH SẠN TRE XANH,2025-06-01,False,8000000,
+pos_clean_0025.jpg,01_pos_clean,VINH NGUYEN RES,2019-03-29,False,225000,
+pos_clean_0026.jpg,01_pos_clean,Nhà hàng Bảo Trang (Cơ sở 1),2017-02-08,False,1344600,
+pos_clean_0027.jpg,01_pos_clean,CÔNG TY CP CẤP NƯỚC THỚT NỐT,2020-02-20,True,93500,
+pos_clean_0028.jpg,01_pos_clean,CASE STUDY,2023-05-31,False,588000,
+pos_clean_0030.jpg,01_pos_clean,KARAOKE DORAEMON,2017-03-22,False,1234000,
+pos_clean_0031.jpg,01_pos_clean,CÔNG TY CỔ PHẦN ĐÔ THỊ CAM RANH,2023-11-30,True,13606800,
+pos_clean_0032.jpg,01_pos_clean,,2025-02-06,True,333385,"other, water payment receipt"
+pos_clean_0033.jpg,01_pos_clean,Café Mộc Lan,2020-09-11,False,120000,
+pos_clean_0034.jpg,01_pos_clean,BILLIARDS CLUP NEW VIP,2017-12-13,False,370000,
+pos_clean_0035.jpg,01_pos_clean,HTX CƠ KHÍ VÀ VẬN TẢI Ô TÔ HUY HOÀNG,2022-10-11,True,220000,
+pos_clean_0036.jpg,01_pos_clean,TRẠM THU PHÍ SỐ 1 - QL5,,False,39000,"partial date visible, some text obscured"
+pos_clean_0037.jpg,01_pos_clean,TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN ĐƯỜNG CAO TỐC VIỆT NAM - Cty TNHH MTV,,True,64000,
+pos_clean_0038.jpg,01_pos_clean,CÔNG TY TNHH VẬN TẢI DU LỊCH KHANH PHONG,2025-09-03,False,350000,
+pos_clean_0039.jpg,01_pos_clean,VINASUN TAXI,2025-10-03,False,421,
+pos_clean_0040.jpg,01_pos_clean,CÔNG TY TNHH VẬN TẢI HÀNH KHÁCH VÀ DU LỊCH PHÚC YÊN,2025-11-26,True,290000,
+pos_clean_0041.jpg,01_pos_clean,CÔNG TY CP HOÀNG LONG,2022-06-15,False,120000,partial receipt image
+pos_clean_0042.jpg,01_pos_clean,CÔNG TY CỔ PHẦN DỊCH VỤ VẬN TẢI GIA LAI,2023-10-11,False,300000,
+pos_clean_0043.jpg,01_pos_clean,VietNam Airlines,,True,3298000,
+pos_clean_0044.jpg,01_pos_clean,TIẾN ANH,2025-06-17,False,200000,
+pos_clean_0045.jpg,01_pos_clean,,,False,,not_a_receipt
+pos_clean_0046.jpg,01_pos_clean,TECHCOMBANK,2026-04-07,False,350000,
+pos_clean_0047.jpg,01_pos_clean,CTĐL TP Cần Thơ,2026-04-02,False,202338,
+pos_clean_0048.jpg,01_pos_clean,,,True,26460000,not_a_receipt
+pos_clean_0049.jpg,01_pos_clean,NỘI THẤT GIA LINH,,False,147600000,
+pos_clean_0050.jpg,01_pos_clean,CƠ SỞ II TRƯỜNG ĐẠI HỌC NGOẠI THƯƠNG TẠI TP.HCM,2023-03-31,False,20003000,
+pos_clean_0051.jpg,01_pos_clean,KHOA Y,2021-07-31,False,6980000,
+pos_clean_0052.jpg,01_pos_clean,Thẻ học đường SSC,,False,910000,
+pos_clean_0053.jpg,01_pos_clean,Bệnh Viện Từ Dũ Nhà thuốc 227 Cống Quỳnh,2023-01-12,False,494482,
+vat_invoice_0000.jpg,02_vat_invoice,CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ AN TIẾN,,False,29000000,"date is 2014-10-25, which is before 2015-01-01, so date set to null"
+vat_invoice_0001.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN THƯƠNG MẠI AN SƠN,2026-03-06,True,2074800,
+vat_invoice_0002.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN DỊCH VỤ TIÊU ĐIỂM Á CHÂU,,True,1328400,
+vat_invoice_0003.jpg,02_vat_invoice,CÔNG TY TNHH DỊCH VỤ HÀ PHƯƠNG VIỆT NAM,2026-03-07,True,2613724,
+vat_invoice_0004.jpg,02_vat_invoice,CÔNG TY TNHH ĐÀO TẠO THIÊN ƯNG,2025-03-15,False,4000000,
+vat_invoice_0005.jpg,02_vat_invoice,CÔNG TY CP ĐIỆN NƯỚC AN GIANG,,True,746855,
+vat_invoice_0006.jpg,02_vat_invoice,Tổng Công ty Điện lực TP Hà Nội - Công ty Điện lực Thanh Trì,2022-05-07,True,399585,
+vat_invoice_0007.jpg,02_vat_invoice,CÔNG TY TNHH MỘT THÀNH VIÊN NƯỚC SẠCH HÀ NỘI,2025-01-09,True,133400,
+vat_invoice_0008.jpg,02_vat_invoice,TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI,2021-03-18,True,205590000,
+vat_invoice_0009.jpg,02_vat_invoice,TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI,2024-04-02,False,177993000,
+vat_invoice_0010.jpg,02_vat_invoice,TẬP ĐOÀN VIỄN THÔNG QUÂN ĐỘI,2018-06-30,True,50000000,
+vat_invoice_0011.jpg,02_vat_invoice,TỔNG CÔNG TY CỔ PHẦN MAY VIỆT TIẾN,2015-02-05,True,19849500,
+vat_invoice_0012.jpg,02_vat_invoice,CÔNG TY TNHH TẬP ĐOÀN THANG MÁY THIẾT,2022-08-02,True,1188000,
+vat_invoice_0013.jpg,02_vat_invoice,CÔNG TY TNHH GIAO NHẬN VÀ VẬN TẢI MINH VIỆT,2018-10-23,True,214698,
+vat_invoice_0014.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN MISA,2020-09-26,True,825000,
+vat_invoice_0015.jpg,02_vat_invoice,Công ty TNHH Dịch Vụ Kế Toán Thiên Ưng,2026-01-02,True,1800000,
+vat_invoice_0016.jpg,02_vat_invoice,CHI NHÁNH BẮC NINH - CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,2025-01-24,True,39000,
+vat_invoice_0017.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,2025-03-24,True,352000,
+vat_invoice_0018.jpg,02_vat_invoice,CHI NHÁNH QUẢNG NAM – CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,2026-01-21,True,200000,
+vat_invoice_0019.jpg,02_vat_invoice,CHI NHÁNH THÀNH PHỐ HỒ CHÍ MINH - CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,2025-12-29,True,194000,
+vat_invoice_0020.jpg,02_vat_invoice,CHI NHÁNH THÀNH PHỐ HỒ CHÍ MINH - CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,2025-09-27,True,250000,
+vat_invoice_0021.jpg,02_vat_invoice,CÔNG TY TNHH CÔNG NGHỆ FIXCAR VIỆT NAM,2025-01-18,True,4500000,
+vat_invoice_0022.jpg,02_vat_invoice,CÔNG TY TNHH MỘT THÀNH VIÊN BẾN XE MIỀN ĐÔNG,2022-07-08,True,123760,
+vat_invoice_0023.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN GM THĂNG LONG,2016-09-30,True,809000000,
+vat_invoice_0024.jpg,02_vat_invoice,CÔNG TY CP HOÀNG LONG,2021-12-23,True,40150000,
+vat_invoice_0025.jpg,02_vat_invoice,CÔNG TY XĂNG DẦU KHU VỰC I - CÔNG TY TNHH MỘT THÀNH VIÊN,2025-06-01,True,525000,
+vat_invoice_0026.jpg,02_vat_invoice,CÔNG TY TNHH DỊCH VỤ VƯỢNG THÁI,2021-11-08,True,21400000,
+vat_invoice_0027.jpg,02_vat_invoice,CÔNG TY TNHH XYZ,2020-05-13,True,1436000,
+vat_invoice_0028.jpg,02_vat_invoice,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LANDMARK ONE,2025-03-13,True,2520720,
+vat_invoice_0029.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN DƯỢC PHẨM PHARMACITY,2021-05-29,True,877200,
+vat_invoice_0030.jpg,02_vat_invoice,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,2022-04-13,True,1463000,
+long_invoice_0000.jpg,03_long_invoice,BEN NAY RESTAURANT,2017-04-26,False,810000,
+long_invoice_0001.jpg,03_long_invoice,,2026-03-03,False,12180000,
+long_invoice_0002.jpg,03_long_invoice,Pharmacity,2020-06-01,False,45280,
+long_invoice_0003.jpg,03_long_invoice,VinCommerce,2020-08-14,True,543704,
+long_invoice_0004.jpg,03_long_invoice,VinCommerce,2020-08-14,False,600900,
+long_invoice_0005.jpg,03_long_invoice,Saigon Co.op,2019-09-20,True,27291,rotated
+long_invoice_0006.jpg,03_long_invoice,LE CHAMP TU LE RESORT HOT SPRING & SPA,2020-01-31,False,9766235,
+long_invoice_0007.jpg,03_long_invoice,,2020-08-11,False,345000,rotated
+long_invoice_0008.jpg,03_long_invoice,NHÀ SÁCH GD-TC CẨM PHẢ,,False,716000,"blurry date, no visible VAT details"
+long_invoice_0009.jpg,03_long_invoice,NHÀ SÁCH GD-TC CẨM PHẢ,2020-08-09,False,291000,none
+long_invoice_0010.jpg,03_long_invoice,Co.opMart XA LO HA NOI,2020-07-03,True,305404,"receipt is slightly blurry and has some stains, contains multiple sections but all from the same transaction"
+long_invoice_0011.jpg,03_long_invoice,MINIMART ANAN,2020-08-12,False,582000,
+long_invoice_0012.jpg,03_long_invoice,VinCommerce,2020-08-15,False,267728,
+long_invoice_0013.jpg,03_long_invoice,SIEU THI BACH HOA TONG HOP,,True,518900,blurry
+long_invoice_0014.jpg,03_long_invoice,MINIMART ANAN,2020-08-09,False,297000,
+long_invoice_0015.jpg,03_long_invoice,Saigon Co.op,2019-09-20,True,38774,rotated
+long_invoice_0016.jpg,03_long_invoice,VinCommerce,2020-08-13,True,398125,
+long_invoice_0017.jpg,03_long_invoice,MINIMART ANAN,2020-08-17,False,502000,
+long_invoice_0018.jpg,03_long_invoice,Co.opMart NGUYEN DINH CHIEU,2020-05-21,True,306060,"rotated slightly, some pen markings"
+long_invoice_0019.jpg,03_long_invoice,Co.opMart NGUYEN DINH CHIEU,2020-05-21,True,880400,rotated
+long_invoice_0020.jpg,03_long_invoice,VinCommerce,2020-08-15,False,210294,
+long_invoice_0021.jpg,03_long_invoice,NHÀ SÁCH GIÁO DỤC CẨM PHẢ,2020-02-13,False,584000,"rotated, slightly blurry"
+long_invoice_0022.jpg,03_long_invoice,CƠM GÀ BẢO NGỌC,2020-08-11,False,1475000,
+long_invoice_0023.jpg,03_long_invoice,Co.opMart XA LO HA NOI,2018-07-08,True,141088,
+long_invoice_0024.jpg,03_long_invoice,MINIMART ANAN,2023-08-15,False,548000,rotated image
+long_invoice_0025.jpg,03_long_invoice,MINIMART ANAN,2020-08-17,False,502000,
+long_invoice_0026.jpg,03_long_invoice,Co.opmart XA LO HA NOI,2020-07-15,True,429776,
+long_invoice_0027.jpg,03_long_invoice,NHÀ SÁCH GD-TC CẨM PHẢ,2020-08-14,False,202000,
+long_invoice_0028.jpg,03_long_invoice,VinCommerce,2020-08-23,True,464549,rotated
+long_invoice_0029.jpg,03_long_invoice,NHÀ SÁCH GD-TC CẨM PHẢ,2020-08-09,False,973000,rotated image
+long_invoice_0030.jpg,03_long_invoice,NHÀ SÁCH HỢP TÁC CẨM PHÁ,2020-02-09,False,764200,blurry
+long_invoice_0031.jpg,03_long_invoice,dienthoaivui,2026-03-31,False,1300000,
+long_invoice_0032.jpg,03_long_invoice,ĐỒ GỖ NỘI THẤT NT,,False,45550000,
+handwritten_0000.jpg,04_handwritten,CÔNG TY DỊCH THUẬT TUẤN DUNG,2017-04-26,False,250000,handwritten amounts and details
+handwritten_0001.jpg,04_handwritten,Nhàu Bình Dân,,False,370,"handwritten, partial, rotated"
+handwritten_0002.jpg,04_handwritten,NGUYỄN HOÀI NAM,,False,500000,"handwritten, date incomplete (year 2008), total amount handwritten"
+handwritten_0003.jpg,04_handwritten,ĐINH THỊ MAI HÒA,2044-12-15,False,28719300,"handwritten, slightly blurry"
+handwritten_0004.jpg,04_handwritten,TRUNG TÂM ANH NGỮ IALC VIỆT NAM - CN TUY HÒA,2025-08-28,False,9000000,"handwritten fields, some text partially obscured by shadow"
+handwritten_0005.jpg,04_handwritten,TRUNG TÂM BẢO HÀNH CÔNG TY LÊ BẢO MINH,2026-02-07,False,13000000,handwritten
+handwritten_0006.jpg,04_handwritten,,,True,721050,"blurry, partial, handwritten amount"
+handwritten_0007.jpg,04_handwritten,CTY CP ÁNH DƯƠNG VN,2020-11-20,False,110000,handwritten
+handwritten_0008.jpg,04_handwritten,CÔNG TY TNHH CHO THUÊ XE,2018-07-31,True,51833650,handwritten
+handwritten_0009.jpg,04_handwritten,NGUYỄN THỊ KHANH,2018-06-21,False,18822000,handwritten
+handwritten_0010.jpg,04_handwritten,Phương Hoa,,False,16200000,"handwritten, partial date not visible"
+handwritten_0011.jpg,04_handwritten,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NỘI THẤT THUẬN HÒA,2016-03-21,True,7803400,"handwritten, clear"
+low_quality_0000.jpg,05_low_quality,NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM,2023-09-16,True,1000000,
+low_quality_0001.jpg,05_low_quality,BTMC - CẦU GIẤY,2021-10-07,False,17538000,"handwritten signature, some stamps, slight blur on edges"
+low_quality_0002.jpg,05_low_quality,Công Ty Cổ Phần Vận Tải Tp.hcm,2022-07-05,False,6000,
+low_quality_0003.gif,05_low_quality,Cari Trường,2018-08-16,False,510000,
+low_quality_0004.jpg,05_low_quality,,,False,649000,"partial receipt, no merchant name or date visible"
+low_quality_0005.jpg,05_low_quality,Demo Online Quán Ăn & Quán Nhậu,2023-01-30,False,904000,
+low_quality_0006.jpg,05_low_quality,CTY TNHH MTV GAS Á CHÂU,2026-02-07,False,492000,receipt is slightly crumpled but all key data is readable
+low_quality_0007.jpg,05_low_quality,GỖ COFFEE,2022-02-01,True,167000,
+low_quality_0008.jpg,05_low_quality,Hu Tieu Go Hoa Map 2,2025-02-18,False,,"amounts are in USD, not VND"
+low_quality_0009.jpg,05_low_quality,UNIQLO,2020-08-01,True,2442000,
+low_quality_0010.jpg,05_low_quality,VinCommerce,2020-08-14,False,160000,rotated
+low_quality_0011.jpg,05_low_quality,MINIMART ANAN,2020-08-12,False,62996,
+low_quality_0012.jpg,05_low_quality,NHÀ SÁCH GD-TC CẨM PHẢ,2020-08-14,False,95000,"rotated, slightly blurry"
+low_quality_0013.jpg,05_low_quality,NHÀ SÁCH GD-TC CẨM PHẢ,2020-08-09,False,22000,
+low_quality_0014.jpg,05_low_quality,THE BLUES,2020-08-13,False,299000,
+low_quality_0015.jpg,05_low_quality,SIEU THI BACH HOA TONG HOP,2020-08-10,True,85700,
+low_quality_0016.jpg,05_low_quality,MINIMART ANAN,,False,34000,rotated image
+low_quality_0017.jpg,05_low_quality,MINIMART ANAN,2020-08-16,False,136000,rotated
+low_quality_0018.jpg,05_low_quality,,,False,29000,"rotated, partial"
+low_quality_0019.jpg,05_low_quality,Phúc Anh Minimart,2020-08-15,False,585500,rotated
+low_quality_0020.jpg,05_low_quality,THE COFFEE HOUSE,2020-10-01,False,59000,rotated
+low_quality_0021.jpg,05_low_quality,TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN ĐƯỜNG CAO TỐC VIỆT NAM - CTY TNHH MTV,2020-08-14,True,105000,"rotated, slightly blurry"
+low_quality_0022.jpg,05_low_quality,MINIMART ANAN,2020-08-17,False,1003000,
+low_quality_0023.jpg,05_low_quality,MINIMART ANAN,2020-08-13,False,58000,
+low_quality_0024.jpg,05_low_quality,VinCommerce,2020-08-09,False,39000,
+low_quality_0025.jpg,05_low_quality,MINIMART ANAN,2020-08-11,False,115000,
+low_quality_0026.jpg,05_low_quality,,2020-08-13,False,61000,"rotated, partial"
+low_quality_0027.jpg,05_low_quality,Cty LD TNHH KFC Viet Nam,2020-08-15,False,51000,rotated
+low_quality_0028.jpg,05_low_quality,MINIMART ANAN,2020-08-17,False,69000,
+low_quality_0029.jpg,05_low_quality,SMART ANAN,2020-08-11,False,243000,"rotated, some text slightly blurry"
+low_quality_0030.jpg,05_low_quality,Co.op Food,2019-09-20,True,55300,rotated
+low_quality_0031.jpg,05_low_quality,Co.op Food,2019-09-20,True,48139,rotated
+low_quality_0032.jpg,05_low_quality,MINH HIỀN VEGETARIAN RESTAURANT,2017-03-12,False,94000,
+low_quality_0033.jpg,05_low_quality,,2025-03-17,False,3942000,"partial receipt, merchant name not visible"
+low_quality_0034.jpg,05_low_quality,Nét Huế,,False,305000,rotated image
+low_quality_0035.jpg,05_low_quality,CÔNG TY CP CẤP NƯỚC THỦ ĐỨC,2020-08-04,True,22435580,
+low_quality_0036.jpg,05_low_quality,PARIS LEVAIN,2025-09-21,False,172000,
+low_quality_0037.jpg,05_low_quality,PAUL BAKERY VN,2019-12-28,True,184800,
+low_quality_0038.jpg,05_low_quality,,2016-01-14,False,74000,"blurry, partial text overlap, unclear merchant name"
+low_quality_0039.jpg,05_low_quality,Song Fijiu,2025-02-03,False,20441200,handwritten annotations on receipt
+low_quality_0040.jpg,05_low_quality,THE NOODLE HOUSE - 225NVT,2022-03-16,False,590000,
+low_quality_0041.jpg,05_low_quality,TÍN ĐẠT,2018-08-24,False,4400000,
+low_quality_0042.jpg,05_low_quality,trasencodau,2024-10-24,False,60000,"wrinkled paper, some text slightly blurry"
+low_quality_0043.jpg,05_low_quality,trasencodau,2024-07-07,False,430000,
+low_quality_0044.jpg,05_low_quality,,2025-05-04,False,19756000,
+low_quality_0045.jpg,05_low_quality,Phòng Khám Đa Khoa Nguyễn Thị B,2023-03-01,False,41400000,"blurry on edges, some text obscured"
+low_quality_0046.jpg,05_low_quality,Công ty xăng dầu Điện Biên,2018-03-30,True,1860000,
+low_quality_0047.jpg,05_low_quality,CÔNG TY XĂNG DẦU THANH HÓA,2018-04-01,True,5800000,
+low_quality_0048.jpg,05_low_quality,KIM BÊN MOTEL,2019-05-09,False,400000,
+low_quality_0049.jpg,05_low_quality,,2022-09-30,False,25000,"partial receipt, no merchant name visible"
+low_quality_0050.jpg,05_low_quality,KHÁCH SẠN THẢO MY,2015-02-12,False,935000,
+low_quality_0051.jpg,05_low_quality,TAXI XANH SM,2023-04-05,False,85000,
+low_quality_0052.jpg,05_low_quality,CÔNG TY TNHH AN NINH MẠNG BKAV,2011-05-05,True,498000,
+low_quality_0053.jpg,05_low_quality,,,True,33000,
+low_quality_0054.jpg,05_low_quality,XÍ NGHIỆP XE BUÝT NHANH BRT HÀ NỘI - CHI NHÁNH TCT VẬN TẢI HÀ NỘI,2026-02-08,False,50000,"multiple receipts, clear text"
+low_quality_0055.jpg,05_low_quality,,,True,69250,"partial receipt, no merchant name or date visible"
+low_quality_0056.jpg,05_low_quality,Bamboo Airways,2019-12-12,True,3450000,
+low_quality_0057.jpg,05_low_quality,CÔNG TY TNHH GRABTAU,2017-07-31,False,228150,
+low_quality_0058.jpg,05_low_quality,TRUNG TÂM BẢO TỒN DI TÍCH CỔ ĐÔ HUẾ,2023-09-29,False,12000,
+low_quality_0059.jpg,05_low_quality,Vietnam Airlines,,True,594000,"date is 10/05/2011, outside valid range"
+low_quality_0060.jpg,05_low_quality,TOMA FASHION,2020-03-27,False,540000,
+low_quality_0061.jpg,05_low_quality,ỐC BẮC CÔ TRÀ 3,2026-03-31,False,320000,
+low_quality_0062.jpg,05_low_quality,,2025-05-03,True,592110,"other receipt type, blurry"
+low_quality_0063.jpg,05_low_quality,BỆNH VIỆN CHỢ RẪY,,False,,date not in valid range; no total amount visible
+low_quality_0064.jpg,05_low_quality,NHÀ THUỐC BỆNH VIỆN ĐA KHOA HÀ ĐÔNG,2022-11-04,False,1051300,
+low_quality_0065.jpg,05_low_quality,BỆNH VIỆN ĐA KHOA TỈNH HÀ TĨNH,2016-11-16,,,"other type receipt, no total amount or VAT shown"
+low_quality_0066.jpg,05_low_quality,BỆNH VIỆN BẠCH MAI NHÀ THUỐC SỐ 3,2016-01-12,False,4796000,

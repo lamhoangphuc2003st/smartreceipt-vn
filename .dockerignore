@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets — never bake into image
+.env
+*.env
+
+# Data (large, not needed in container)
+data/raw/
+data/debug/
+tmp/
+
+# Development / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+notebooks/
+
+# Git
+.git/
+.github/
+
+# Docs source (not needed at runtime)
+docs/
+
+# HF Spaces source (separate deployment)
+hf_spaces/

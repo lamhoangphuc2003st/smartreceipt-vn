@@ -1,0 +1,57 @@
+# ── Secrets ────────────────────────────────────────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# ── Virtual environments ────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Data & models (large files, not for git) ────────────────────────────────────
+data/raw/
+data/debug/
+tmp/
+# Models are large — upload to HF Hub instead
+# models/ is included because phobert-expense-v1 is needed locally for dev
+# but for production use HF Hub repo ID via PHOBERT_MODEL env var
+
+# ── Test / coverage ─────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Jupyter ─────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── IDE / OS ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Docker ───────────────────────────────────────────────────────────────────────
+# Keep Dockerfiles in git, ignore build artifacts
+*.tar
+
+# ── Logs ─────────────────────────────────────────────────────────────────────────
+*.log
+logs/

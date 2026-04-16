@@ -1,0 +1,908 @@
+[
+  {
+    "canonical_name": "Highlands Coffee",
+    "aliases": ["Higlands Coffee", "Highland Coffee", "HIGHLANDS COFFEE", "Highlands", "HIGHLANDS", "Higland Coffee", "Highlands Coffe"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "The Coffee House",
+    "aliases": ["Coffee House", "THE COFFEE HOUSE", "The Coffe House", "TCH"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Phúc Long Coffee & Tea",
+    "aliases": ["Phuc Long", "Phúc Long", "PHUC LONG", "Phúc Long Coffee", "Phuc Long Coffee", "Phúc Long Tea", "Phuclong"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Starbucks",
+    "aliases": ["STARBUCKS", "Starbuck", "Starbucks Coffee", "Starbucks Viet Nam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Trung Nguyên Legend",
+    "aliases": ["Trung Nguyen", "TRUNG NGUYEN", "Trung Nguyen Legend", "Cà phê Trung Nguyên", "Ca phe Trung Nguyen", "Trung Nguyên E-Coffee"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Katinat",
+    "aliases": ["KATINAT", "Katinat Saigon Kafe", "Katinat Coffee", "Katinat Café"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Cộng Cà Phê",
+    "aliases": ["Cong Ca Phe", "CONG CA PHE", "Cộng Caphê", "Cong Caphe", "Cộng Coffee"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Ông Bầu Coffee",
+    "aliases": ["Ong Bau", "ONG BAU", "Ông Bầu", "Ong Bau Coffee"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "KFC",
+    "aliases": ["K.F.C", "KFC Viet Nam", "KFC Vietnam", "KFC VIETNAM"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "McDonald's",
+    "aliases": ["McDonalds", "Mc Donald's", "MC DONALD'S", "McDonald", "Mc Donalds"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Pizza Hut",
+    "aliases": ["PIZZA HUT", "Pizzahut", "Pizza Hut Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Domino's Pizza",
+    "aliases": ["Dominos", "DOMINOS", "Domino Pizza", "Domino's"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "The Pizza Company",
+    "aliases": ["Pizza Company", "THE PIZZA COMPANY", "TPC"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Lotteria",
+    "aliases": ["LOTTERIA", "Lotteria Vietnam", "Loteria"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Jollibee",
+    "aliases": ["JOLLIBEE", "Jolibee", "Jollibee Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Burger King",
+    "aliases": ["BURGER KING", "BurgerKing", "Burger King Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Popeyes",
+    "aliases": ["POPEYES", "Popeye's", "Popeyes Louisiana Kitchen"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Gong Cha",
+    "aliases": ["GONG CHA", "Gongcha", "Cống Trà", "Gong Cha Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Koi Thé",
+    "aliases": ["Koi The", "KOI THE", "Koi Cafe", "Koi Thé Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "ToCoToCo",
+    "aliases": ["Toco Toco", "TOCOTOCO", "To Co To Co"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Dingtea",
+    "aliases": ["Ding Tea", "DINGTEA", "Ding Tea Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "The Alley",
+    "aliases": ["THE ALLEY", "TheAlley", "Alley Việt Nam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Phở 24",
+    "aliases": ["Pho 24", "PHO 24", "Phở24", "Pho24"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Wrap & Roll",
+    "aliases": ["Wrap and Roll", "WRAP & ROLL", "Wrap Roll"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Haidilao",
+    "aliases": ["HAIDILAO", "Hai Di Lao", "Lẩu Haidilao", "Hải Để Lão"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Manwah",
+    "aliases": ["MAN WAH", "MANWAH"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sumo BBQ",
+    "aliases": ["SUMO BBQ", "SumoBBQ", "Sumo Yakiniku"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Gyu-Kaku",
+    "aliases": ["Gyu Kaku", "GYU-KAKU", "GYUKAKU", "Gyukaku"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Seoul Garden",
+    "aliases": ["SEOUL GARDEN", "SeoulGarden", "Seoul Garden Restaurant"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Hotpot Story",
+    "aliases": ["HOT POT STORY", "HotpotStory", "Hot Pot Story"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Ichiban Boshi",
+    "aliases": ["ICHIBAN BOSHI", "Ichiban Boshi", "Ichiban Boshi Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Thai Express",
+    "aliases": ["THAI EXPRESS", "ThaiExpress", "Thai Express Vietnam"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "WinMart",
+    "aliases": ["VinMart", "VINMART", "Vinmart+", "VinMart+", "WINMART", "Win Mart", "Vin Mart", "WinMart+"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Co.opmart",
+    "aliases": ["Coopmart", "Co.op Mart", "COOPMART", "CO.OPMART", "Coop Mart", "Co-opmart", "Co.opFood", "CoopFood", "Saigon Co.op"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Big C",
+    "aliases": ["BIGC", "Big-C", "GO!", "GO! Supermarket", "BIG C", "BigC", "GO! & Big C"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Lotte Mart",
+    "aliases": ["LOTTE MART", "LotteMart", "Lottemart", "Lotte Market", "Lotte Center"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Emart",
+    "aliases": ["E-MART", "EMART", "E Mart Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "MM Mega Market",
+    "aliases": ["Mega Market", "MEGA MARKET", "Metro", "MM Metro", "Metro Cash & Carry", "MM Cash & Carry"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Circle K",
+    "aliases": ["CIRCLE K", "CircleK", "Circle-K"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "GS25",
+    "aliases": ["GS 25", "G25", "GS25 Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "FamilyMart",
+    "aliases": ["Family Mart", "FAMILYMART", "Family Market"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Bách Hóa Xanh",
+    "aliases": ["Bach Hoa Xanh", "BACH HOA XANH", "Bách Hoá Xanh", "BHX"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Thế Giới Di Động",
+    "aliases": ["The Gioi Di Dong", "TGDD", "Thế Giới Di Dộng", "The World Mobile", "TGDĐ"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Điện Máy Xanh",
+    "aliases": ["Dien May Xanh", "DIEN MAY XANH", "DMX", "Dienmayxanh"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "FPT Shop",
+    "aliases": ["FPT SHOP", "FPTShop", "F.P.T Shop"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "CellphoneS",
+    "aliases": ["Cellphone S", "CELLPHONES", "CellPhone S", "Cellphones.com.vn"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Guardian",
+    "aliases": ["GUARDIAN", "Guardian Vietnam", "Guardian Beauty"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Watsons",
+    "aliases": ["WATSONS", "Watson's", "Watson"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Uniqlo",
+    "aliases": ["UNIQLO", "Uni Qlo"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Zara",
+    "aliases": ["ZARA", "Zara Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "H&M",
+    "aliases": ["H & M", "H and M", "HM"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Decathlon",
+    "aliases": ["DECATHLON", "Decathlon Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Muji",
+    "aliases": ["MUJI", "Muji Vietnam", "Mujirushi"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Cotton On",
+    "aliases": ["COTTON ON", "CottonOn", "Cotton On Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vascara",
+    "aliases": ["VASCARA", "Vascara Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Juno",
+    "aliases": ["JUNO", "Juno Shoes", "Juno Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Biti's",
+    "aliases": ["Bitis", "BITI'S", "BITIS", "Biti's Hunter", "Biti"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Canifa",
+    "aliases": ["CANIFA", "Canifa Fashion"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "NEM Fashion",
+    "aliases": ["NEM", "NEM FASHION", "Nem"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vietnam Airlines",
+    "aliases": ["VIETNAM AIRLINES", "VNA", "Vietnam Airline", "Hang khong Viet Nam", "Hàng không Việt Nam", "Hàng không VN"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "VietJet Air",
+    "aliases": ["Vietjet", "VIETJET", "VietJet", "Viet Jet Air", "VietJet Aviation", "Vietjet Air"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Bamboo Airways",
+    "aliases": ["BAMBOO AIRWAYS", "Bamboo", "Bamboo Air"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vietravel Airlines",
+    "aliases": ["VIETRAVEL", "Vietravel Air", "Vietravel Airlines"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Grab",
+    "aliases": ["GRAB", "GrabCar", "GrabBike", "GrabFood", "Grab Vietnam", "GrabExpress"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Gojek",
+    "aliases": ["GOJEK", "Go-Jek", "GoViet", "Go Viet", "Gojek Vietnam"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Be",
+    "aliases": ["BE", "Be Group", "beGroup", "Be Vietnam", "Be App"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vinasun",
+    "aliases": ["VINASUN", "Vinasun Taxi", "Vin A Sun", "Taxi Vinasun", "Vinasun Corp"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Mai Linh",
+    "aliases": ["MAI LINH", "Mai Linh Taxi", "Taxi Mai Linh", "Mailinh", "Mai Linh Group"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Taxi Group",
+    "aliases": ["TAXI GROUP", "Taxi Hà Nội", "Thanh Nga Taxi"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Xanh SM",
+    "aliases": ["XANH SM", "Taxi Xanh SM", "VinFast Xanh SM", "GSM"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Phương Trang",
+    "aliases": ["Phuong Trang", "PHUONG TRANG", "FUTA Bus Lines", "FUTA", "Xe Phương Trang"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Thành Bưởi",
+    "aliases": ["Thanh Buoi", "THANH BUOI", "Xe Thành Bưởi"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Petrolimex",
+    "aliases": ["PETROLIMEX", "Xăng Petrolimex", "Cây xăng Petrolimex", "Vietnam National Petroleum"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Shell",
+    "aliases": ["SHELL", "Shell Vietnam", "Xăng Shell", "Trạm xăng Shell"],
+    "category": "Đi lại",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "EVN",
+    "aliases": ["Điện Lực", "Dien Luc", "EVNHCMC", "EVN HCMC", "PC TP.HCM", "Công ty Điện lực", "Tổng công ty Điện lực", "EVN HANOI", "EVNHANOI", "PC Hà Nội"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "VNPT",
+    "aliases": ["Vinaphone", "VINAPHONE", "Vietnam Post", "Bưu điện", "Buu dien", "VNPT VinaPhone"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "Viettel",
+    "aliases": ["VIETTEL", "Viettel Telecom", "Tập đoàn Viettel", "Viettel Vietnam"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "Mobifone",
+    "aliases": ["MOBIFONE", "MobiFone", "Mobi Fone", "Vietnam Mobile Telecom", "Mobifone Vietnam"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "SAWACO",
+    "aliases": ["Cấp nước", "Cap nuoc", "Sawaco", "Công ty Cấp nước", "Cấp nước Sài Gòn", "Saigon Water"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "Hawaco",
+    "aliases": ["HAWACO", "Cấp nước Hà Nội", "Hanoi Water", "Công ty Nước sạch Hà Nội"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "PetroVietnam Gas",
+    "aliases": ["PV GAS", "PVGAS", "PetroVietnam", "Gas PV", "Petrovietnam Gas Corporation"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "Indochina Telecom",
+    "aliases": ["Reddi", "REDDI", "Indochina Telecom"],
+    "category": "Hoá đơn tiện ích",
+    "type": "utility"
+  },
+  {
+    "canonical_name": "Pharmacity",
+    "aliases": ["PHARMACITY", "Pharma City", "Pharma city"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Long Châu",
+    "aliases": ["Long Chau", "LONG CHAU", "Nhà thuốc Long Châu", "FPT Long Châu", "Nha thuoc Long Chau"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "An Khang",
+    "aliases": ["AN KHANG", "Nhà thuốc An Khang", "AnKhang"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Medicare",
+    "aliases": ["MEDICARE", "Medicare Pharmacy"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vinmec",
+    "aliases": ["VINMEC", "Bệnh viện Vinmec", "Vinmec Hospital", "Vinmec International Hospital"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Hoan My",
+    "aliases": ["HOAN MY", "Bệnh viện Hoàn Mỹ", "Hoàn Mỹ Hospital", "Hoan My Medical"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "FV Hospital",
+    "aliases": ["FV", "Bệnh viện FV", "Franco-Vietnamese Hospital", "Benh vien FV"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Thu Cuc Hospital",
+    "aliases": ["Thu Cuc", "THU CUC", "Bệnh viện Thu Cúc", "Thu Cuc International Hospital"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Medlatec",
+    "aliases": ["MEDLATEC", "Medlatec Hospital", "Bệnh viện Medlatec"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Saigon Smile Spa",
+    "aliases": ["SAIGON SMILE SPA", "Smile Spa", "Saigon Smile"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "CGV",
+    "aliases": ["CGV Cinema", "CGV Cinemas", "CJ CGV", "CJ CGV Vietnam"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "BHD Star",
+    "aliases": ["BHD", "BHD Cineplex", "BHD Star Cineplex"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Lotte Cinema",
+    "aliases": ["LOTTE CINEMA", "LotteCinema", "Lotte Cinemas"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Galaxy Cinema",
+    "aliases": ["GALAXY CINEMA", "Galaxy Cinemas", "Galaxy"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vinwonders",
+    "aliases": ["VINWONDERS", "VinWonders", "Vin Wonders", "Vinpearl Land"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Đầm Sen",
+    "aliases": ["Dam Sen", "DAM SEN", "Công viên Đầm Sen", "Dam Sen Park"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sky36",
+    "aliases": ["SKY36", "Sky 36", "Sky36 Bar"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Chill Sky Bar",
+    "aliases": ["CHILL SKY BAR", "Chill Skybar", "Chill Bar"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vinpearl",
+    "aliases": ["VINPEARL", "Vin Pearl", "Vinpearl Hotel", "Vinpearl Resort", "Vinpearl Luxury"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Mường Thanh",
+    "aliases": ["Muong Thanh", "MUONG THANH", "Khách sạn Mường Thanh", "Muong Thanh Hotel", "Muong Thanh Luxury"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Marriott",
+    "aliases": ["MARRIOTT", "Marriott Hotel", "JW Marriott", "Marriott Bonvoy"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Novotel",
+    "aliases": ["NOVOTEL", "Novotel Hotel", "Novotel Saigon"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sheraton",
+    "aliases": ["SHERATON", "Sheraton Hotel", "Sheraton Saigon", "Sheraton Grand"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Park Hyatt Saigon",
+    "aliases": ["Park Hyatt", "PARK HYATT", "Hyatt", "Park Hyatt Hotel"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "InterContinental",
+    "aliases": ["INTERCONTINENTAL", "InterContinental Hotel", "IHG", "InterCon"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Pullman",
+    "aliases": ["PULLMAN", "Pullman Hotel", "Pullman Saigon"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sofitel",
+    "aliases": ["SOFITEL", "Sofitel Hotel", "Sofitel Legend Metropole"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Caravelle Hotel",
+    "aliases": ["CARAVELLE", "Caravelle Saigon", "Caravelle Hotel"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Rex Hotel",
+    "aliases": ["REX HOTEL", "Rex", "Khách sạn Rex"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Lotte Hotel",
+    "aliases": ["LOTTE HOTEL", "Lotte Hotel Hanoi", "Lotte Hotel Saigon"],
+    "category": "Du lịch",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "IKEA",
+    "aliases": ["Ikea", "IKEA Vietnam"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Home Center",
+    "aliases": ["HomeCenter", "HOME CENTER", "Nội thất Home Center"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Ace Hardware",
+    "aliases": ["ACE HARDWARE", "ACE", "Ace Hardware Vietnam"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Nội Thất Hòa Phát",
+    "aliases": ["Hoa Phat", "HOA PHAT", "Hòa Phát Furniture", "Noi That Hoa Phat"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "AA Corporation",
+    "aliases": ["AA CORPORATION", "AA Furniture", "Nội thất AA"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Index Living Mall",
+    "aliases": ["INDEX LIVING MALL", "Index Living", "Index Mall"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Điện Lạnh Ánh Sao",
+    "aliases": ["Anh Sao", "ANH SAO", "Điện Máy Ánh Sao"],
+    "category": "Nhà cửa",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Lazada",
+    "aliases": ["LAZADA", "Lazada Vietnam", "Lazada.vn"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Shopee",
+    "aliases": ["SHOPEE", "Shopee Vietnam", "Shopee.vn"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Tiki",
+    "aliases": ["TIKI", "Tiki.vn", "Tiki Vietnam"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sport 2000",
+    "aliases": ["Sport2000", "SPORT 2000", "SPORT2000"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Routine",
+    "aliases": ["ROUTINE", "Routine Vietnam", "Routine Skincare"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Gumac",
+    "aliases": ["GUMAC", "Gumac Fashion", "Gumac Store"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Hnoss",
+    "aliases": ["HNOSS", "Hnoss Clothing"],
+    "category": "Mua sắm",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "24h Pharmacy",
+    "aliases": ["Nha thuoc 24h", "Nhà thuốc 24h", "Pharmacy 24/7"],
+    "category": "Sức khoẻ",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Bệnh viện Bạch Mai",
+    "aliases": ["Bach Mai", "Benh vien Bach Mai", "BACH MAI", "Bach Mai Hospital"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Bệnh viện Chợ Rẫy",
+    "aliases": ["Cho Ray", "Benh vien Cho Ray", "CHO RAY", "Cho Ray Hospital"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "Nhan Dan 115",
+    "aliases": ["115", "Benh vien 115", "Nhân Dân 115", "Bệnh viện Nhân Dân 115"],
+    "category": "Sức khoẻ",
+    "type": "hospital"
+  },
+  {
+    "canonical_name": "AEON Mall",
+    "aliases": ["AEON", "Aeon", "Aeon Mall Vietnam", "AEON MALL"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vạn Hạnh Mall",
+    "aliases": ["Van Hanh Mall", "VAN HANH MALL", "Vạn Hạnh"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Crescent Mall",
+    "aliases": ["CRESCENT MALL", "Crescent", "SC Vivo City"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Masteri Aqua",
+    "aliases": ["MASTERI AQUA", "Masteri"],
+    "category": "Giải trí",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Thế Giới Phẳng",
+    "aliases": ["The Gioi Phang", "SGTT", "Flat World", "Hệ thống Thế Giới Phẳng"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "VUS",
+    "aliases": ["VUS Vietnam-USA", "VUS English", "Trung tâm VUS"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Language Link",
+    "aliases": ["LANGUAGE LINK", "LanguageLink", "Language Link Vietnam"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Kim's English",
+    "aliases": ["KIM'S ENGLISH", "Kims English", "Kim English Center"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Golden Gate",
+    "aliases": ["GOLDEN GATE", "GoldenGate", "Golden Gate Restaurant"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "The Garden",
+    "aliases": ["THE GARDEN", "Garden Restaurant"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Vua Cua",
+    "aliases": ["VUA CUA", "Vua cua Crab", "Vua Cua Restaurant"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Sườn Nướng Honey",
+    "aliases": ["Honey BBQ", "Suon Nuong Honey", "HONEY BBQ"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "New Day",
+    "aliases": ["NEW DAY", "NewDay", "New Day Restaurant"],
+    "category": "Ăn uống",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "ILA",
+    "aliases": ["ILA Vietnam", "ILA English", "Trung tâm Anh ngữ ILA"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Apollo English",
+    "aliases": ["Apollo", "APOLLO", "Apollo English Center", "Trung tâm Anh ngữ Apollo"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "British Council",
+    "aliases": ["BRITISH COUNCIL", "Hội đồng Anh", "BC Vietnam"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "IELTS Fighter",
+    "aliases": ["IELTS FIGHTER", "IELTSFighter", "IELTS Fighter Vietnam"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Edmicro",
+    "aliases": ["EDMICRO", "Hệ thống Edmicro"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Marathon Education",
+    "aliases": ["MARATHON", "Marathon Education Vietnam"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Topica",
+    "aliases": ["TOPICA", "Topica Native", "Topica Edtech"],
+    "category": "Giáo dục",
+    "type": "chain"
+  },
+  {
+    "canonical_name": "Yola",
+    "aliases": ["YOLA", "Yola English", "Trung tâm Anh ngữ Yola"],
+    "category": "Giáo dục",
+    "type": "chain"
+  }
+]

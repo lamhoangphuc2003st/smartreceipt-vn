@@ -1,0 +1,64 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# SmartReceipt VN — Docker Compose (local development)
+#
+# Usage:
+#   docker-compose up --build
+#
+# Then:
+#   API:       http://localhost:8000/docs
+#   Streamlit: http://localhost:8501
+#
+# Secrets:
+#   Copy .env.example to .env and fill in your Gemini API key.
+#   docker-compose reads .env automatically.
+# ──────────────────────────────────────────────────────────────────────────────
+
+version: "3.9"
+
+services:
+
+  # ── FastAPI backend ─────────────────────────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: smartreceipt-vn-api:local
+    container_name: smartreceipt-api
+    ports:
+      - "8000:8000"
+    environment:
+      - Gemini_API_Key=${Gemini_API_Key}
+      - PHOBERT_MODEL=${PHOBERT_MODEL:-models/phobert-expense-v1}
+      - DISABLE_PHOBERT=${DISABLE_PHOBERT:-0}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - PORT=8000
+    volumes:
+      # Mount models dir so you don't rebuild image on every model update
+      - ./models:/app/models:ro
+      # Mount data/merchants.json for easy updates
+      - ./data/merchants.json:/app/data/merchants.json:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # ── Streamlit frontend ──────────────────────────────────────────────────────
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    image: smartreceipt-vn-ui:local
+    container_name: smartreceipt-ui
+    ports:
+      - "8501:8501"
+    environment:
+      # Point Streamlit at the backend container
+      - API_BASE_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
