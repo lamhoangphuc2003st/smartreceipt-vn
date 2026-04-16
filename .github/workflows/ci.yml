@@ -2,12 +2,14 @@
 # SmartReceipt VN — CI/CD Pipeline
 #
 # Triggers:
-#   push / PR to main  → lint + test
-#   push to main only  → build Docker image + deploy to Railway
+#   push / PR to main  → test
+#   push to main only  → build Docker image (validates Dockerfile)
+#
+# Railway deploys automatically via GitHub integration on push to main.
+# No deploy job needed here.
 #
 # Required GitHub Secrets:
-#   RAILWAY_TOKEN      — from Railway dashboard → Account Settings → Tokens
-#   RAILWAY_SERVICE_ID — from Railway dashboard → Service → Settings → Service ID
+#   RAILWAY_PUBLIC_URL — for post-deploy health check verification
 # ──────────────────────────────────────────────────────────────────────────────
 
 name: CI/CD
@@ -83,31 +85,20 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
-  # ── Job 3: Deploy to Railway ───────────────────────────────────────────────
-  deploy:
-    name: Deploy to Railway
+  # ── Job 3: Verify Railway deployment ──────────────────────────────────────
+  # Railway auto-deploys on push via GitHub integration.
+  # This job just waits and verifies the live health endpoint.
+  verify:
+    name: Verify Deployment
     runs-on: ubuntu-latest
     needs: docker-build
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-    environment: production
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Wait for Railway to deploy
+        run: sleep 60
 
-      - name: Install Railway CLI
-        run: npm install -g @railway/cli
-
-      - name: Deploy to Railway
-        env:
-          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+      - name: Health check
         run: |
-          railway deploy --service ${{ secrets.RAILWAY_SERVICE_ID }} --detach
-
-      - name: Verify deployment health
-        run: |
-          echo "Waiting for Railway to deploy..."
-          sleep 30
-          # Health check against the live URL
           curl -f "${{ secrets.RAILWAY_PUBLIC_URL }}/health" || \
-            echo "Warning: health check failed — Railway may still be starting up"
+            echo "Warning: health check failed — Railway may still be deploying"
