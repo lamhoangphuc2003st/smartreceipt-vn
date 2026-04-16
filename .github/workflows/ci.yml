@@ -45,7 +45,8 @@ jobs:
             fastapi uvicorn[standard] slowapi python-multipart pydantic \
             google-genai opencv-python-headless Pillow numpy rapidfuzz \
             transformers \
-            torch==2.2.2+cpu \
+            "torch==2.4.0+cpu" \
+            "numpy<2" \
             --extra-index-url https://download.pytorch.org/whl/cpu
           pip install pytest httpx
 
