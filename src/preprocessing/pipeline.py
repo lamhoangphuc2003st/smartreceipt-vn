@@ -317,21 +317,34 @@ class ImagePreprocessor:
                     candidate = crop_to_document(current, bounds)
                     h1, w1 = candidate.shape[:2]
                     area_ratio = (h1 * w1) / (h0 * w0)
-                    # Top corner must be in the upper 25% of the image.
-                    # If the detected quad starts below that, we've missed the receipt
-                    # header (merchant name, date) — this is a partial/false detection.
-                    top_y = float(np.min(bounds.corners[:, 1]))
-                    top_ratio = top_y / h0
-                    crop_ok = area_ratio >= 0.4 and top_ratio <= 0.25
+                    # All four guards must pass before we accept the crop:
+                    #   top_ratio   — quad starts in upper 25% (header not cut off)
+                    #   left/right  — quad spans ≥76% of image width (no edge cut off)
+                    #   confidence  — ≥0.70 (area × coverage; rejects shifted quads)
+                    top_y  = float(np.min(bounds.corners[:, 1]))
+                    x_left = float(np.min(bounds.corners[:, 0]))
+                    x_right = float(np.max(bounds.corners[:, 0]))
+                    top_ratio   = top_y   / h0
+                    left_ratio  = x_left  / w0
+                    right_ratio = x_right / w0
+                    failures = []
+                    if area_ratio < 0.4:
+                        failures.append(f"area_ratio={area_ratio:.2f}<0.40")
+                    if top_ratio > 0.25:
+                        failures.append(f"top_ratio={top_ratio:.2f}>0.25")
+                    if left_ratio > 0.12:
+                        failures.append(f"left_ratio={left_ratio:.2f}>0.12 (left edge cut off)")
+                    if right_ratio < 0.88:
+                        failures.append(f"right_ratio={right_ratio:.2f}<0.88 (right edge cut off)")
+                    if bounds.confidence < 0.70:
+                        failures.append(f"confidence={bounds.confidence:.2f}<0.70")
+                    crop_ok = len(failures) == 0
                     if crop_ok:
                         current = candidate
                         steps_applied.append("document_crop")
                     else:
-                        # Reject: either too small or misses the receipt header
-                        reason = (f"top_ratio={top_ratio:.2f}>0.25" if top_ratio > 0.25
-                                  else f"area_ratio={area_ratio:.2f}<0.40")
-                        msg = (f"document_crop rejected ({reason}): "
-                               f"result {w1}x{h1} — likely partial detection")
+                        msg = (f"document_crop rejected ({'; '.join(failures)}): "
+                               f"result {w1}x{h1} — using full image")
                         warnings.append(msg)
                         log.warning(msg)
                         bounds = DocumentBounds(

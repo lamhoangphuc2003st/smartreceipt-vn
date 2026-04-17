@@ -35,7 +35,7 @@ EMPTY_STD_THRESHOLD: float = 8.0  # std_dev below this → near-uniform → blan
 
 MIN_AREA_RATIO: float = 0.10    # quad must cover ≥10% of image area
 ANGLE_TOLERANCE: float = 30.0   # interior angles must be within 90°±30°
-CROP_PADDING: float = 0.02      # 2% padding margin when cropping to quad
+CROP_PADDING: float = 0.04      # 4% padding margin — enough buffer for slightly-off detections
 
 
 # ── Dataclasses ───────────────────────────────────────────────────────────────
@@ -285,9 +285,17 @@ def detect_document(
                 corners_scaled = (quad.reshape(4, 2).astype(np.float32) / scale)
                 sorted_corners = _sort_corners_clockwise(corners_scaled)
 
-                # Confidence: ratio of quad area to image area (higher = more dominant)
+                # Confidence: area ratio × spatial coverage.
+                # A quad shifted to one side scores low even if its area is large —
+                # it means the detector found only part of the receipt.
                 quad_area = cv2.contourArea(quad) / (scale ** 2)
-                confidence = min(1.0, quad_area / image_area)
+                area_ratio = quad_area / image_area
+                x_coords = corners_scaled[:, 0]
+                y_coords = corners_scaled[:, 1]
+                width_coverage = (float(np.max(x_coords)) - float(np.min(x_coords))) / orig_w
+                height_coverage = (float(np.max(y_coords)) - float(np.min(y_coords))) / orig_h
+                coverage = min(width_coverage, height_coverage)
+                confidence = min(1.0, area_ratio * coverage)
 
                 return DocumentBounds(
                     corners=sorted_corners,
